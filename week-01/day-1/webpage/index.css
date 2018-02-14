@@ -1,0 +1,61 @@
+nav {
+    background-color:#333333;
+    height: 40px;
+    padding: 20px 0 0 65%;
+    word-spacing: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #ff0099;
+    font-size: 18px;
+}
+
+.separator {
+    text-align: center;
+    font-size: 30px;
+    word-spacing: .2em;
+}
+section, article {
+    padding: 10px 10%
+
+}
+.pinky {
+    color: #ff0099;
+}
+
+h1 {
+    font-size: 70px;
+    padding-top: 40px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-family: 'Consolas', courier;
+}
+
+body {
+ margin: 0%
+}
+
+p {
+    font-size: 25px;
+    margin: 0px;
+}
+
+.def {
+    font-size: 20px;
+}
