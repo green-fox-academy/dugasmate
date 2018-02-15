@@ -38,14 +38,17 @@ namespace GreenFox
             {
                 Console.WriteLine("Average party...");
             }
-            else if (girls == 0)
+            else if (girls == 0 && boys > 0)
             {
                 Console.WriteLine("Sausage party!");
             }
             else if (girls + boys == 20)
             {
                 Console.WriteLine("Needs more people!");
-
+            }
+            else if (girls == 0 && boys == 0)
+            {
+                Console.WriteLine("Nobody here!");
             }
             Console.ReadLine();
         }
