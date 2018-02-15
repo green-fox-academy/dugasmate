@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-3\IWontCheat\IWontCheat\obj\Debug\netcoreapp2.0\IWontCheat.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-3\IWontCheat\IWontCheat\obj\Debug\netcoreapp2.0\IWontCheat.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\IWontCheat\IWontCheat\obj\Debug\netcoreapp2.0\IWontCheat.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\IWontCheat\IWontCheat\obj\Debug\netcoreapp2.0\IWontCheat.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-3\IWontCheat\IWontCheat\bin\Debug\netcoreapp2.0\IWontCheat.deps.json
+C:\greenfox\dugasmate\week-01\day-3\IWontCheat\IWontCheat\bin\Debug\netcoreapp2.0\IWontCheat.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-3\IWontCheat\IWontCheat\bin\Debug\netcoreapp2.0\IWontCheat.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-3\IWontCheat\IWontCheat\bin\Debug\netcoreapp2.0\IWontCheat.dll
+C:\greenfox\dugasmate\week-01\day-3\IWontCheat\IWontCheat\bin\Debug\netcoreapp2.0\IWontCheat.pdb
+C:\greenfox\dugasmate\week-01\day-3\IWontCheat\IWontCheat\obj\Debug\netcoreapp2.0\IWontCheat.dll
+C:\greenfox\dugasmate\week-01\day-3\IWontCheat\IWontCheat\obj\Debug\netcoreapp2.0\IWontCheat.pdb
