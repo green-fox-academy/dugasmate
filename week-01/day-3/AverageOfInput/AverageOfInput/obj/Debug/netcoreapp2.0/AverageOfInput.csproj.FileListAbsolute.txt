@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-3\AverageOfInput\AverageOfInput\bin\Debug\netcoreapp2.0\AverageOfInput.deps.json
+C:\greenfox\dugasmate\week-01\day-3\AverageOfInput\AverageOfInput\bin\Debug\netcoreapp2.0\AverageOfInput.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-3\AverageOfInput\AverageOfInput\bin\Debug\netcoreapp2.0\AverageOfInput.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-3\AverageOfInput\AverageOfInput\bin\Debug\netcoreapp2.0\AverageOfInput.dll
+C:\greenfox\dugasmate\week-01\day-3\AverageOfInput\AverageOfInput\bin\Debug\netcoreapp2.0\AverageOfInput.pdb
+C:\greenfox\dugasmate\week-01\day-3\AverageOfInput\AverageOfInput\obj\Debug\netcoreapp2.0\AverageOfInput.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-3\AverageOfInput\AverageOfInput\obj\Debug\netcoreapp2.0\AverageOfInput.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\AverageOfInput\AverageOfInput\obj\Debug\netcoreapp2.0\AverageOfInput.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\AverageOfInput\AverageOfInput\obj\Debug\netcoreapp2.0\AverageOfInput.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-3\AverageOfInput\AverageOfInput\obj\Debug\netcoreapp2.0\AverageOfInput.dll
+C:\greenfox\dugasmate\week-01\day-3\AverageOfInput\AverageOfInput\obj\Debug\netcoreapp2.0\AverageOfInput.pdb

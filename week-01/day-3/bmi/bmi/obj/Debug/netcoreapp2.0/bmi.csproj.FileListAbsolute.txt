@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-3\bmi\bmi\bin\Debug\netcoreapp2.0\bmi.deps.json
+C:\greenfox\dugasmate\week-01\day-3\bmi\bmi\bin\Debug\netcoreapp2.0\bmi.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-3\bmi\bmi\bin\Debug\netcoreapp2.0\bmi.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-3\bmi\bmi\bin\Debug\netcoreapp2.0\bmi.dll
+C:\greenfox\dugasmate\week-01\day-3\bmi\bmi\bin\Debug\netcoreapp2.0\bmi.pdb
+C:\greenfox\dugasmate\week-01\day-3\bmi\bmi\obj\Debug\netcoreapp2.0\bmi.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-3\bmi\bmi\obj\Debug\netcoreapp2.0\bmi.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\bmi\bmi\obj\Debug\netcoreapp2.0\bmi.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\bmi\bmi\obj\Debug\netcoreapp2.0\bmi.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-3\bmi\bmi\obj\Debug\netcoreapp2.0\bmi.dll
+C:\greenfox\dugasmate\week-01\day-3\bmi\bmi\obj\Debug\netcoreapp2.0\bmi.pdb

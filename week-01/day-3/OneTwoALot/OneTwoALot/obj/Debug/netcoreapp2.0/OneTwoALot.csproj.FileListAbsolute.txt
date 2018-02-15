@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-3\OneTwoALot\OneTwoALot\bin\Debug\netcoreapp2.0\OneTwoALot.deps.json
+C:\greenfox\dugasmate\week-01\day-3\OneTwoALot\OneTwoALot\bin\Debug\netcoreapp2.0\OneTwoALot.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-3\OneTwoALot\OneTwoALot\bin\Debug\netcoreapp2.0\OneTwoALot.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-3\OneTwoALot\OneTwoALot\bin\Debug\netcoreapp2.0\OneTwoALot.dll
+C:\greenfox\dugasmate\week-01\day-3\OneTwoALot\OneTwoALot\bin\Debug\netcoreapp2.0\OneTwoALot.pdb
+C:\greenfox\dugasmate\week-01\day-3\OneTwoALot\OneTwoALot\obj\Debug\netcoreapp2.0\OneTwoALot.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-3\OneTwoALot\OneTwoALot\obj\Debug\netcoreapp2.0\OneTwoALot.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\OneTwoALot\OneTwoALot\obj\Debug\netcoreapp2.0\OneTwoALot.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\OneTwoALot\OneTwoALot\obj\Debug\netcoreapp2.0\OneTwoALot.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-3\OneTwoALot\OneTwoALot\obj\Debug\netcoreapp2.0\OneTwoALot.dll
+C:\greenfox\dugasmate\week-01\day-3\OneTwoALot\OneTwoALot\obj\Debug\netcoreapp2.0\OneTwoALot.pdb

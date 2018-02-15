@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-3\PartyIndicator\PartyIndicator\bin\Debug\netcoreapp2.0\PartyIndicator.deps.json
+C:\greenfox\dugasmate\week-01\day-3\PartyIndicator\PartyIndicator\bin\Debug\netcoreapp2.0\PartyIndicator.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-3\PartyIndicator\PartyIndicator\bin\Debug\netcoreapp2.0\PartyIndicator.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-3\PartyIndicator\PartyIndicator\bin\Debug\netcoreapp2.0\PartyIndicator.dll
+C:\greenfox\dugasmate\week-01\day-3\PartyIndicator\PartyIndicator\bin\Debug\netcoreapp2.0\PartyIndicator.pdb
+C:\greenfox\dugasmate\week-01\day-3\PartyIndicator\PartyIndicator\obj\Debug\netcoreapp2.0\PartyIndicator.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-3\PartyIndicator\PartyIndicator\obj\Debug\netcoreapp2.0\PartyIndicator.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\PartyIndicator\PartyIndicator\obj\Debug\netcoreapp2.0\PartyIndicator.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\PartyIndicator\PartyIndicator\obj\Debug\netcoreapp2.0\PartyIndicator.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-3\PartyIndicator\PartyIndicator\obj\Debug\netcoreapp2.0\PartyIndicator.dll
+C:\greenfox\dugasmate\week-01\day-3\PartyIndicator\PartyIndicator\obj\Debug\netcoreapp2.0\PartyIndicator.pdb

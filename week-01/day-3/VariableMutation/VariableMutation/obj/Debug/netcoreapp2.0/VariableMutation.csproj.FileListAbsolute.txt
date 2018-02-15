@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-3\VariableMutation\VariableMutation\obj\Debug\netcoreapp2.0\VariableMutation.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-3\VariableMutation\VariableMutation\obj\Debug\netcoreapp2.0\VariableMutation.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\VariableMutation\VariableMutation\obj\Debug\netcoreapp2.0\VariableMutation.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\VariableMutation\VariableMutation\obj\Debug\netcoreapp2.0\VariableMutation.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-3\VariableMutation\VariableMutation\bin\Debug\netcoreapp2.0\VariableMutation.deps.json
+C:\greenfox\dugasmate\week-01\day-3\VariableMutation\VariableMutation\bin\Debug\netcoreapp2.0\VariableMutation.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-3\VariableMutation\VariableMutation\bin\Debug\netcoreapp2.0\VariableMutation.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-3\VariableMutation\VariableMutation\bin\Debug\netcoreapp2.0\VariableMutation.dll
+C:\greenfox\dugasmate\week-01\day-3\VariableMutation\VariableMutation\bin\Debug\netcoreapp2.0\VariableMutation.pdb
+C:\greenfox\dugasmate\week-01\day-3\VariableMutation\VariableMutation\obj\Debug\netcoreapp2.0\VariableMutation.dll
+C:\greenfox\dugasmate\week-01\day-3\VariableMutation\VariableMutation\obj\Debug\netcoreapp2.0\VariableMutation.pdb

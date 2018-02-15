@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-3\HelloName\HelloName\bin\Debug\netcoreapp2.0\HelloName.deps.json
+C:\greenfox\dugasmate\week-01\day-3\HelloName\HelloName\bin\Debug\netcoreapp2.0\HelloName.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-3\HelloName\HelloName\bin\Debug\netcoreapp2.0\HelloName.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-3\HelloName\HelloName\bin\Debug\netcoreapp2.0\HelloName.dll
+C:\greenfox\dugasmate\week-01\day-3\HelloName\HelloName\bin\Debug\netcoreapp2.0\HelloName.pdb
+C:\greenfox\dugasmate\week-01\day-3\HelloName\HelloName\obj\Debug\netcoreapp2.0\HelloName.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-3\HelloName\HelloName\obj\Debug\netcoreapp2.0\HelloName.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\HelloName\HelloName\obj\Debug\netcoreapp2.0\HelloName.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\HelloName\HelloName\obj\Debug\netcoreapp2.0\HelloName.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-3\HelloName\HelloName\obj\Debug\netcoreapp2.0\HelloName.dll
+C:\greenfox\dugasmate\week-01\day-3\HelloName\HelloName\obj\Debug\netcoreapp2.0\HelloName.pdb

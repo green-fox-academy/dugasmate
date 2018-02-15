@@ -1,0 +1,4 @@
+C:\greenfox\dugasmate\week-01\day-3\Swap\Swap\obj\Debug\netcoreapp2.0\Swap.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-3\Swap\Swap\obj\Debug\netcoreapp2.0\Swap.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\Swap\Swap\obj\Debug\netcoreapp2.0\Swap.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\Swap\Swap\obj\Debug\netcoreapp2.0\Swap.AssemblyInfo.cs

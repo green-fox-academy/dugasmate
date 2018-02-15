@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-3\HelloUser\HelloUser\bin\Debug\netcoreapp2.0\HelloUser.deps.json
+C:\greenfox\dugasmate\week-01\day-3\HelloUser\HelloUser\bin\Debug\netcoreapp2.0\HelloUser.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-3\HelloUser\HelloUser\bin\Debug\netcoreapp2.0\HelloUser.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-3\HelloUser\HelloUser\bin\Debug\netcoreapp2.0\HelloUser.dll
+C:\greenfox\dugasmate\week-01\day-3\HelloUser\HelloUser\bin\Debug\netcoreapp2.0\HelloUser.pdb
+C:\greenfox\dugasmate\week-01\day-3\HelloUser\HelloUser\obj\Debug\netcoreapp2.0\HelloUser.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-3\HelloUser\HelloUser\obj\Debug\netcoreapp2.0\HelloUser.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\HelloUser\HelloUser\obj\Debug\netcoreapp2.0\HelloUser.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\HelloUser\HelloUser\obj\Debug\netcoreapp2.0\HelloUser.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-3\HelloUser\HelloUser\obj\Debug\netcoreapp2.0\HelloUser.dll
+C:\greenfox\dugasmate\week-01\day-3\HelloUser\HelloUser\obj\Debug\netcoreapp2.0\HelloUser.pdb

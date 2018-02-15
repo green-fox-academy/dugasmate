@@ -1,0 +1,10 @@
+C:\greenfox\dugasmate\week-01\day-3\SecondsInADay\SecondsInADay\bin\Debug\netcoreapp2.0\SecondsInADay.deps.json
+C:\greenfox\dugasmate\week-01\day-3\SecondsInADay\SecondsInADay\bin\Debug\netcoreapp2.0\SecondsInADay.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-3\SecondsInADay\SecondsInADay\bin\Debug\netcoreapp2.0\SecondsInADay.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-3\SecondsInADay\SecondsInADay\bin\Debug\netcoreapp2.0\SecondsInADay.dll
+C:\greenfox\dugasmate\week-01\day-3\SecondsInADay\SecondsInADay\bin\Debug\netcoreapp2.0\SecondsInADay.pdb
+C:\greenfox\dugasmate\week-01\day-3\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp2.0\SecondsInADay.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp2.0\SecondsInADay.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp2.0\SecondsInADay.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-3\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp2.0\SecondsInADay.dll
+C:\greenfox\dugasmate\week-01\day-3\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp2.0\SecondsInADay.pdb

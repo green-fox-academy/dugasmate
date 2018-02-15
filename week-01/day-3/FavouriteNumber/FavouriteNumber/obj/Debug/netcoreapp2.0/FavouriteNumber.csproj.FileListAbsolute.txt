@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-3\FavouriteNumber\FavouriteNumber\bin\Debug\netcoreapp2.0\FavouriteNumber.deps.json
+C:\greenfox\dugasmate\week-01\day-3\FavouriteNumber\FavouriteNumber\bin\Debug\netcoreapp2.0\FavouriteNumber.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-3\FavouriteNumber\FavouriteNumber\bin\Debug\netcoreapp2.0\FavouriteNumber.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-3\FavouriteNumber\FavouriteNumber\bin\Debug\netcoreapp2.0\FavouriteNumber.dll
+C:\greenfox\dugasmate\week-01\day-3\FavouriteNumber\FavouriteNumber\bin\Debug\netcoreapp2.0\FavouriteNumber.pdb
+C:\greenfox\dugasmate\week-01\day-3\FavouriteNumber\FavouriteNumber\obj\Debug\netcoreapp2.0\FavouriteNumber.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-3\FavouriteNumber\FavouriteNumber\obj\Debug\netcoreapp2.0\FavouriteNumber.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\FavouriteNumber\FavouriteNumber\obj\Debug\netcoreapp2.0\FavouriteNumber.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\FavouriteNumber\FavouriteNumber\obj\Debug\netcoreapp2.0\FavouriteNumber.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-3\FavouriteNumber\FavouriteNumber\obj\Debug\netcoreapp2.0\FavouriteNumber.dll
+C:\greenfox\dugasmate\week-01\day-3\FavouriteNumber\FavouriteNumber\obj\Debug\netcoreapp2.0\FavouriteNumber.pdb

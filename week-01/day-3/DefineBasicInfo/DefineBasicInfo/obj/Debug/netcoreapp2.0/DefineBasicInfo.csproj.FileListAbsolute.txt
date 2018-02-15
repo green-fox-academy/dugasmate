@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-3\DefineBasicInfo\DefineBasicInfo\bin\Debug\netcoreapp2.0\DefineBasicInfo.deps.json
+C:\greenfox\dugasmate\week-01\day-3\DefineBasicInfo\DefineBasicInfo\bin\Debug\netcoreapp2.0\DefineBasicInfo.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-3\DefineBasicInfo\DefineBasicInfo\bin\Debug\netcoreapp2.0\DefineBasicInfo.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-3\DefineBasicInfo\DefineBasicInfo\bin\Debug\netcoreapp2.0\DefineBasicInfo.dll
+C:\greenfox\dugasmate\week-01\day-3\DefineBasicInfo\DefineBasicInfo\bin\Debug\netcoreapp2.0\DefineBasicInfo.pdb
+C:\greenfox\dugasmate\week-01\day-3\DefineBasicInfo\DefineBasicInfo\obj\Debug\netcoreapp2.0\DefineBasicInfo.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-3\DefineBasicInfo\DefineBasicInfo\obj\Debug\netcoreapp2.0\DefineBasicInfo.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\DefineBasicInfo\DefineBasicInfo\obj\Debug\netcoreapp2.0\DefineBasicInfo.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\DefineBasicInfo\DefineBasicInfo\obj\Debug\netcoreapp2.0\DefineBasicInfo.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-3\DefineBasicInfo\DefineBasicInfo\obj\Debug\netcoreapp2.0\DefineBasicInfo.dll
+C:\greenfox\dugasmate\week-01\day-3\DefineBasicInfo\DefineBasicInfo\obj\Debug\netcoreapp2.0\DefineBasicInfo.pdb

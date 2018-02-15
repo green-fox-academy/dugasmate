@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-3\CodingHours\CodingHours\bin\Debug\netcoreapp2.0\CodingHours.deps.json
+C:\greenfox\dugasmate\week-01\day-3\CodingHours\CodingHours\bin\Debug\netcoreapp2.0\CodingHours.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-3\CodingHours\CodingHours\bin\Debug\netcoreapp2.0\CodingHours.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-3\CodingHours\CodingHours\bin\Debug\netcoreapp2.0\CodingHours.dll
+C:\greenfox\dugasmate\week-01\day-3\CodingHours\CodingHours\bin\Debug\netcoreapp2.0\CodingHours.pdb
+C:\greenfox\dugasmate\week-01\day-3\CodingHours\CodingHours\obj\Debug\netcoreapp2.0\CodingHours.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-3\CodingHours\CodingHours\obj\Debug\netcoreapp2.0\CodingHours.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\CodingHours\CodingHours\obj\Debug\netcoreapp2.0\CodingHours.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\CodingHours\CodingHours\obj\Debug\netcoreapp2.0\CodingHours.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-3\CodingHours\CodingHours\obj\Debug\netcoreapp2.0\CodingHours.dll
+C:\greenfox\dugasmate\week-01\day-3\CodingHours\CodingHours\obj\Debug\netcoreapp2.0\CodingHours.pdb

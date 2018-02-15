@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-3\mile-to-km-converter\mile-to-km-converter\obj\Debug\netcoreapp2.0\mile-to-km-converter.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-3\mile-to-km-converter\mile-to-km-converter\obj\Debug\netcoreapp2.0\mile-to-km-converter.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\mile-to-km-converter\mile-to-km-converter\obj\Debug\netcoreapp2.0\mile-to-km-converter.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\mile-to-km-converter\mile-to-km-converter\obj\Debug\netcoreapp2.0\mile-to-km-converter.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-3\mile-to-km-converter\mile-to-km-converter\bin\Debug\netcoreapp2.0\mile-to-km-converter.deps.json
+C:\greenfox\dugasmate\week-01\day-3\mile-to-km-converter\mile-to-km-converter\bin\Debug\netcoreapp2.0\mile-to-km-converter.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-3\mile-to-km-converter\mile-to-km-converter\bin\Debug\netcoreapp2.0\mile-to-km-converter.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-3\mile-to-km-converter\mile-to-km-converter\bin\Debug\netcoreapp2.0\mile-to-km-converter.dll
+C:\greenfox\dugasmate\week-01\day-3\mile-to-km-converter\mile-to-km-converter\bin\Debug\netcoreapp2.0\mile-to-km-converter.pdb
+C:\greenfox\dugasmate\week-01\day-3\mile-to-km-converter\mile-to-km-converter\obj\Debug\netcoreapp2.0\mile-to-km-converter.dll
+C:\greenfox\dugasmate\week-01\day-3\mile-to-km-converter\mile-to-km-converter\obj\Debug\netcoreapp2.0\mile-to-km-converter.pdb

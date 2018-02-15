@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-3\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp2.0\TwoNumbers.deps.json
+C:\greenfox\dugasmate\week-01\day-3\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp2.0\TwoNumbers.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-3\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp2.0\TwoNumbers.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-3\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp2.0\TwoNumbers.dll
+C:\greenfox\dugasmate\week-01\day-3\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp2.0\TwoNumbers.pdb
+C:\greenfox\dugasmate\week-01\day-3\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp2.0\TwoNumbers.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-3\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp2.0\TwoNumbers.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp2.0\TwoNumbers.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp2.0\TwoNumbers.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-3\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp2.0\TwoNumbers.dll
+C:\greenfox\dugasmate\week-01\day-3\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp2.0\TwoNumbers.pdb

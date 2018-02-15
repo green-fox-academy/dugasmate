@@ -1,0 +1,10 @@
+C:\greenfox\dugasmate\week-01\day-3\IntroduceYourself\IntroduceYourself\bin\Debug\netcoreapp2.0\IntroduceYourself.deps.json
+C:\greenfox\dugasmate\week-01\day-3\IntroduceYourself\IntroduceYourself\bin\Debug\netcoreapp2.0\IntroduceYourself.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-3\IntroduceYourself\IntroduceYourself\bin\Debug\netcoreapp2.0\IntroduceYourself.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-3\IntroduceYourself\IntroduceYourself\bin\Debug\netcoreapp2.0\IntroduceYourself.dll
+C:\greenfox\dugasmate\week-01\day-3\IntroduceYourself\IntroduceYourself\bin\Debug\netcoreapp2.0\IntroduceYourself.pdb
+C:\greenfox\dugasmate\week-01\day-3\IntroduceYourself\IntroduceYourself\obj\Debug\netcoreapp2.0\IntroduceYourself.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\IntroduceYourself\IntroduceYourself\obj\Debug\netcoreapp2.0\IntroduceYourself.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-3\IntroduceYourself\IntroduceYourself\obj\Debug\netcoreapp2.0\IntroduceYourself.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-3\IntroduceYourself\IntroduceYourself\obj\Debug\netcoreapp2.0\IntroduceYourself.dll
+C:\greenfox\dugasmate\week-01\day-3\IntroduceYourself\IntroduceYourself\obj\Debug\netcoreapp2.0\IntroduceYourself.pdb
