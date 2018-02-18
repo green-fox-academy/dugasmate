@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-4\DrawChessTable\DrawChessTable\bin\Debug\netcoreapp2.0\DrawChessTable.deps.json
+C:\greenfox\dugasmate\week-01\day-4\DrawChessTable\DrawChessTable\bin\Debug\netcoreapp2.0\DrawChessTable.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-4\DrawChessTable\DrawChessTable\bin\Debug\netcoreapp2.0\DrawChessTable.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-4\DrawChessTable\DrawChessTable\bin\Debug\netcoreapp2.0\DrawChessTable.dll
+C:\greenfox\dugasmate\week-01\day-4\DrawChessTable\DrawChessTable\bin\Debug\netcoreapp2.0\DrawChessTable.pdb
+C:\greenfox\dugasmate\week-01\day-4\DrawChessTable\DrawChessTable\obj\Debug\netcoreapp2.0\DrawChessTable.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-4\DrawChessTable\DrawChessTable\obj\Debug\netcoreapp2.0\DrawChessTable.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-4\DrawChessTable\DrawChessTable\obj\Debug\netcoreapp2.0\DrawChessTable.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-4\DrawChessTable\DrawChessTable\obj\Debug\netcoreapp2.0\DrawChessTable.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-4\DrawChessTable\DrawChessTable\obj\Debug\netcoreapp2.0\DrawChessTable.dll
+C:\greenfox\dugasmate\week-01\day-4\DrawChessTable\DrawChessTable\obj\Debug\netcoreapp2.0\DrawChessTable.pdb

@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-4\PrintEven\PrintEven\bin\Debug\netcoreapp2.0\PrintEven.deps.json
+C:\greenfox\dugasmate\week-01\day-4\PrintEven\PrintEven\bin\Debug\netcoreapp2.0\PrintEven.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-4\PrintEven\PrintEven\bin\Debug\netcoreapp2.0\PrintEven.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-4\PrintEven\PrintEven\bin\Debug\netcoreapp2.0\PrintEven.dll
+C:\greenfox\dugasmate\week-01\day-4\PrintEven\PrintEven\bin\Debug\netcoreapp2.0\PrintEven.pdb
+C:\greenfox\dugasmate\week-01\day-4\PrintEven\PrintEven\obj\Debug\netcoreapp2.0\PrintEven.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-4\PrintEven\PrintEven\obj\Debug\netcoreapp2.0\PrintEven.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-4\PrintEven\PrintEven\obj\Debug\netcoreapp2.0\PrintEven.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-4\PrintEven\PrintEven\obj\Debug\netcoreapp2.0\PrintEven.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-4\PrintEven\PrintEven\obj\Debug\netcoreapp2.0\PrintEven.dll
+C:\greenfox\dugasmate\week-01\day-4\PrintEven\PrintEven\obj\Debug\netcoreapp2.0\PrintEven.pdb

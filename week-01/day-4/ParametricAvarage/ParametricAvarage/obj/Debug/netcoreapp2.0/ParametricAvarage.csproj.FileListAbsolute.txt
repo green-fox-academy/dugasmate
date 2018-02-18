@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-4\ParametricAvarage\ParametricAvarage\bin\Debug\netcoreapp2.0\ParametricAvarage.deps.json
+C:\greenfox\dugasmate\week-01\day-4\ParametricAvarage\ParametricAvarage\bin\Debug\netcoreapp2.0\ParametricAvarage.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-4\ParametricAvarage\ParametricAvarage\bin\Debug\netcoreapp2.0\ParametricAvarage.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-4\ParametricAvarage\ParametricAvarage\bin\Debug\netcoreapp2.0\ParametricAvarage.dll
+C:\greenfox\dugasmate\week-01\day-4\ParametricAvarage\ParametricAvarage\bin\Debug\netcoreapp2.0\ParametricAvarage.pdb
+C:\greenfox\dugasmate\week-01\day-4\ParametricAvarage\ParametricAvarage\obj\Debug\netcoreapp2.0\ParametricAvarage.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-4\ParametricAvarage\ParametricAvarage\obj\Debug\netcoreapp2.0\ParametricAvarage.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-4\ParametricAvarage\ParametricAvarage\obj\Debug\netcoreapp2.0\ParametricAvarage.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-4\ParametricAvarage\ParametricAvarage\obj\Debug\netcoreapp2.0\ParametricAvarage.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-4\ParametricAvarage\ParametricAvarage\obj\Debug\netcoreapp2.0\ParametricAvarage.dll
+C:\greenfox\dugasmate\week-01\day-4\ParametricAvarage\ParametricAvarage\obj\Debug\netcoreapp2.0\ParametricAvarage.pdb

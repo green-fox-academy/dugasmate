@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-4\DrawTriangle\DrawTriangle\bin\Debug\netcoreapp2.0\DrawTriangle.deps.json
+C:\greenfox\dugasmate\week-01\day-4\DrawTriangle\DrawTriangle\bin\Debug\netcoreapp2.0\DrawTriangle.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-4\DrawTriangle\DrawTriangle\bin\Debug\netcoreapp2.0\DrawTriangle.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-4\DrawTriangle\DrawTriangle\bin\Debug\netcoreapp2.0\DrawTriangle.dll
+C:\greenfox\dugasmate\week-01\day-4\DrawTriangle\DrawTriangle\bin\Debug\netcoreapp2.0\DrawTriangle.pdb
+C:\greenfox\dugasmate\week-01\day-4\DrawTriangle\DrawTriangle\obj\Debug\netcoreapp2.0\DrawTriangle.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-4\DrawTriangle\DrawTriangle\obj\Debug\netcoreapp2.0\DrawTriangle.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-4\DrawTriangle\DrawTriangle\obj\Debug\netcoreapp2.0\DrawTriangle.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-4\DrawTriangle\DrawTriangle\obj\Debug\netcoreapp2.0\DrawTriangle.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-4\DrawTriangle\DrawTriangle\obj\Debug\netcoreapp2.0\DrawTriangle.dll
+C:\greenfox\dugasmate\week-01\day-4\DrawTriangle\DrawTriangle\obj\Debug\netcoreapp2.0\DrawTriangle.pdb

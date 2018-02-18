@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-01\day-4\DrawPyramid\DrawPyramid\bin\Debug\netcoreapp2.0\DrawPyramid.deps.json
+C:\greenfox\dugasmate\week-01\day-4\DrawPyramid\DrawPyramid\bin\Debug\netcoreapp2.0\DrawPyramid.runtimeconfig.json
+C:\greenfox\dugasmate\week-01\day-4\DrawPyramid\DrawPyramid\bin\Debug\netcoreapp2.0\DrawPyramid.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-01\day-4\DrawPyramid\DrawPyramid\bin\Debug\netcoreapp2.0\DrawPyramid.dll
+C:\greenfox\dugasmate\week-01\day-4\DrawPyramid\DrawPyramid\bin\Debug\netcoreapp2.0\DrawPyramid.pdb
+C:\greenfox\dugasmate\week-01\day-4\DrawPyramid\DrawPyramid\obj\Debug\netcoreapp2.0\DrawPyramid.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-01\day-4\DrawPyramid\DrawPyramid\obj\Debug\netcoreapp2.0\DrawPyramid.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-01\day-4\DrawPyramid\DrawPyramid\obj\Debug\netcoreapp2.0\DrawPyramid.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-01\day-4\DrawPyramid\DrawPyramid\obj\Debug\netcoreapp2.0\DrawPyramid.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-01\day-4\DrawPyramid\DrawPyramid\obj\Debug\netcoreapp2.0\DrawPyramid.dll
+C:\greenfox\dugasmate\week-01\day-4\DrawPyramid\DrawPyramid\obj\Debug\netcoreapp2.0\DrawPyramid.pdb
