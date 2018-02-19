@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-1\ChangeElement\ChangeElement\bin\Debug\netcoreapp2.0\ChangeElement.deps.json
+C:\greenfox\dugasmate\week-02\day-1\ChangeElement\ChangeElement\bin\Debug\netcoreapp2.0\ChangeElement.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-1\ChangeElement\ChangeElement\bin\Debug\netcoreapp2.0\ChangeElement.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-1\ChangeElement\ChangeElement\bin\Debug\netcoreapp2.0\ChangeElement.dll
+C:\greenfox\dugasmate\week-02\day-1\ChangeElement\ChangeElement\bin\Debug\netcoreapp2.0\ChangeElement.pdb
+C:\greenfox\dugasmate\week-02\day-1\ChangeElement\ChangeElement\obj\Debug\netcoreapp2.0\ChangeElement.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-1\ChangeElement\ChangeElement\obj\Debug\netcoreapp2.0\ChangeElement.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\ChangeElement\ChangeElement\obj\Debug\netcoreapp2.0\ChangeElement.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\ChangeElement\ChangeElement\obj\Debug\netcoreapp2.0\ChangeElement.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-1\ChangeElement\ChangeElement\obj\Debug\netcoreapp2.0\ChangeElement.dll
+C:\greenfox\dugasmate\week-02\day-1\ChangeElement\ChangeElement\obj\Debug\netcoreapp2.0\ChangeElement.pdb

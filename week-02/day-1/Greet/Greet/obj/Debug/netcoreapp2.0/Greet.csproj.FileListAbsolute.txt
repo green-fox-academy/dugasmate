@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-1\Greet\Greet\obj\Debug\netcoreapp2.0\Greet.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-1\Greet\Greet\obj\Debug\netcoreapp2.0\Greet.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\Greet\Greet\obj\Debug\netcoreapp2.0\Greet.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\Greet\Greet\obj\Debug\netcoreapp2.0\Greet.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-1\Greet\Greet\bin\Debug\netcoreapp2.0\Greet.deps.json
+C:\greenfox\dugasmate\week-02\day-1\Greet\Greet\bin\Debug\netcoreapp2.0\Greet.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-1\Greet\Greet\bin\Debug\netcoreapp2.0\Greet.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-1\Greet\Greet\bin\Debug\netcoreapp2.0\Greet.dll
+C:\greenfox\dugasmate\week-02\day-1\Greet\Greet\bin\Debug\netcoreapp2.0\Greet.pdb
+C:\greenfox\dugasmate\week-02\day-1\Greet\Greet\obj\Debug\netcoreapp2.0\Greet.dll
+C:\greenfox\dugasmate\week-02\day-1\Greet\Greet\obj\Debug\netcoreapp2.0\Greet.pdb

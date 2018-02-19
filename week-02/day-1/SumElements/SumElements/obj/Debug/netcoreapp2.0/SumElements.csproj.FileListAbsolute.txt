@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-1\SumElements\SumElements\bin\Debug\netcoreapp2.0\SumElements.deps.json
+C:\greenfox\dugasmate\week-02\day-1\SumElements\SumElements\bin\Debug\netcoreapp2.0\SumElements.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-1\SumElements\SumElements\bin\Debug\netcoreapp2.0\SumElements.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-1\SumElements\SumElements\bin\Debug\netcoreapp2.0\SumElements.dll
+C:\greenfox\dugasmate\week-02\day-1\SumElements\SumElements\bin\Debug\netcoreapp2.0\SumElements.pdb
+C:\greenfox\dugasmate\week-02\day-1\SumElements\SumElements\obj\Debug\netcoreapp2.0\SumElements.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\SumElements\SumElements\obj\Debug\netcoreapp2.0\SumElements.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\SumElements\SumElements\obj\Debug\netcoreapp2.0\SumElements.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-1\SumElements\SumElements\obj\Debug\netcoreapp2.0\SumElements.dll
+C:\greenfox\dugasmate\week-02\day-1\SumElements\SumElements\obj\Debug\netcoreapp2.0\SumElements.pdb
+C:\greenfox\dugasmate\week-02\day-1\SumElements\SumElements\obj\Debug\netcoreapp2.0\SumElements.csprojResolveAssemblyReference.cache

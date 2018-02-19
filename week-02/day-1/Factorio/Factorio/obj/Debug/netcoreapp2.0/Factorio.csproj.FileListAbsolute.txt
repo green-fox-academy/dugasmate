@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-1\Factorio\Factorio\bin\Debug\netcoreapp2.0\Factorio.deps.json
+C:\greenfox\dugasmate\week-02\day-1\Factorio\Factorio\bin\Debug\netcoreapp2.0\Factorio.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-1\Factorio\Factorio\bin\Debug\netcoreapp2.0\Factorio.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-1\Factorio\Factorio\bin\Debug\netcoreapp2.0\Factorio.dll
+C:\greenfox\dugasmate\week-02\day-1\Factorio\Factorio\bin\Debug\netcoreapp2.0\Factorio.pdb
+C:\greenfox\dugasmate\week-02\day-1\Factorio\Factorio\obj\Debug\netcoreapp2.0\Factorio.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-1\Factorio\Factorio\obj\Debug\netcoreapp2.0\Factorio.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\Factorio\Factorio\obj\Debug\netcoreapp2.0\Factorio.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\Factorio\Factorio\obj\Debug\netcoreapp2.0\Factorio.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-1\Factorio\Factorio\obj\Debug\netcoreapp2.0\Factorio.dll
+C:\greenfox\dugasmate\week-02\day-1\Factorio\Factorio\obj\Debug\netcoreapp2.0\Factorio.pdb

@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-1\Colors\Colors\bin\Debug\netcoreapp2.0\Colors.deps.json
+C:\greenfox\dugasmate\week-02\day-1\Colors\Colors\bin\Debug\netcoreapp2.0\Colors.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-1\Colors\Colors\bin\Debug\netcoreapp2.0\Colors.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-1\Colors\Colors\bin\Debug\netcoreapp2.0\Colors.dll
+C:\greenfox\dugasmate\week-02\day-1\Colors\Colors\bin\Debug\netcoreapp2.0\Colors.pdb
+C:\greenfox\dugasmate\week-02\day-1\Colors\Colors\obj\Debug\netcoreapp2.0\Colors.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-1\Colors\Colors\obj\Debug\netcoreapp2.0\Colors.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\Colors\Colors\obj\Debug\netcoreapp2.0\Colors.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\Colors\Colors\obj\Debug\netcoreapp2.0\Colors.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-1\Colors\Colors\obj\Debug\netcoreapp2.0\Colors.dll
+C:\greenfox\dugasmate\week-02\day-1\Colors\Colors\obj\Debug\netcoreapp2.0\Colors.pdb

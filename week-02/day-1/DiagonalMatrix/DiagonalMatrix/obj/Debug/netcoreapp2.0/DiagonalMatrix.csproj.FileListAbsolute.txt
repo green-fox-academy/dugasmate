@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-1\DiagonalMatrix\DiagonalMatrix\bin\Debug\netcoreapp2.0\DiagonalMatrix.deps.json
+C:\greenfox\dugasmate\week-02\day-1\DiagonalMatrix\DiagonalMatrix\bin\Debug\netcoreapp2.0\DiagonalMatrix.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-1\DiagonalMatrix\DiagonalMatrix\bin\Debug\netcoreapp2.0\DiagonalMatrix.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-1\DiagonalMatrix\DiagonalMatrix\bin\Debug\netcoreapp2.0\DiagonalMatrix.dll
+C:\greenfox\dugasmate\week-02\day-1\DiagonalMatrix\DiagonalMatrix\bin\Debug\netcoreapp2.0\DiagonalMatrix.pdb
+C:\greenfox\dugasmate\week-02\day-1\DiagonalMatrix\DiagonalMatrix\obj\Debug\netcoreapp2.0\DiagonalMatrix.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-1\DiagonalMatrix\DiagonalMatrix\obj\Debug\netcoreapp2.0\DiagonalMatrix.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\DiagonalMatrix\DiagonalMatrix\obj\Debug\netcoreapp2.0\DiagonalMatrix.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\DiagonalMatrix\DiagonalMatrix\obj\Debug\netcoreapp2.0\DiagonalMatrix.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-1\DiagonalMatrix\DiagonalMatrix\obj\Debug\netcoreapp2.0\DiagonalMatrix.dll
+C:\greenfox\dugasmate\week-02\day-1\DiagonalMatrix\DiagonalMatrix\obj\Debug\netcoreapp2.0\DiagonalMatrix.pdb

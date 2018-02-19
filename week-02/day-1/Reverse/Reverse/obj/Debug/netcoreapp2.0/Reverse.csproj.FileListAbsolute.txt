@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-1\Reverse\Reverse\bin\Debug\netcoreapp2.0\Reverse.deps.json
+C:\greenfox\dugasmate\week-02\day-1\Reverse\Reverse\bin\Debug\netcoreapp2.0\Reverse.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-1\Reverse\Reverse\bin\Debug\netcoreapp2.0\Reverse.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-1\Reverse\Reverse\bin\Debug\netcoreapp2.0\Reverse.dll
+C:\greenfox\dugasmate\week-02\day-1\Reverse\Reverse\bin\Debug\netcoreapp2.0\Reverse.pdb
+C:\greenfox\dugasmate\week-02\day-1\Reverse\Reverse\obj\Debug\netcoreapp2.0\Reverse.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-1\Reverse\Reverse\obj\Debug\netcoreapp2.0\Reverse.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\Reverse\Reverse\obj\Debug\netcoreapp2.0\Reverse.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\Reverse\Reverse\obj\Debug\netcoreapp2.0\Reverse.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-1\Reverse\Reverse\obj\Debug\netcoreapp2.0\Reverse.dll
+C:\greenfox\dugasmate\week-02\day-1\Reverse\Reverse\obj\Debug\netcoreapp2.0\Reverse.pdb

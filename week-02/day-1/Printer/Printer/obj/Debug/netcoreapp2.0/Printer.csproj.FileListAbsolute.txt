@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-1\Printer\Printer\bin\Debug\netcoreapp2.0\Printer.deps.json
+C:\greenfox\dugasmate\week-02\day-1\Printer\Printer\bin\Debug\netcoreapp2.0\Printer.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-1\Printer\Printer\bin\Debug\netcoreapp2.0\Printer.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-1\Printer\Printer\bin\Debug\netcoreapp2.0\Printer.dll
+C:\greenfox\dugasmate\week-02\day-1\Printer\Printer\bin\Debug\netcoreapp2.0\Printer.pdb
+C:\greenfox\dugasmate\week-02\day-1\Printer\Printer\obj\Debug\netcoreapp2.0\Printer.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-1\Printer\Printer\obj\Debug\netcoreapp2.0\Printer.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\Printer\Printer\obj\Debug\netcoreapp2.0\Printer.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\Printer\Printer\obj\Debug\netcoreapp2.0\Printer.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-1\Printer\Printer\obj\Debug\netcoreapp2.0\Printer.dll
+C:\greenfox\dugasmate\week-02\day-1\Printer\Printer\obj\Debug\netcoreapp2.0\Printer.pdb

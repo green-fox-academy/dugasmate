@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-1\DoubleItems\DoubleItems\bin\Debug\netcoreapp2.0\DoubleItems.deps.json
+C:\greenfox\dugasmate\week-02\day-1\DoubleItems\DoubleItems\bin\Debug\netcoreapp2.0\DoubleItems.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-1\DoubleItems\DoubleItems\bin\Debug\netcoreapp2.0\DoubleItems.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-1\DoubleItems\DoubleItems\bin\Debug\netcoreapp2.0\DoubleItems.dll
+C:\greenfox\dugasmate\week-02\day-1\DoubleItems\DoubleItems\bin\Debug\netcoreapp2.0\DoubleItems.pdb
+C:\greenfox\dugasmate\week-02\day-1\DoubleItems\DoubleItems\obj\Debug\netcoreapp2.0\DoubleItems.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-1\DoubleItems\DoubleItems\obj\Debug\netcoreapp2.0\DoubleItems.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\DoubleItems\DoubleItems\obj\Debug\netcoreapp2.0\DoubleItems.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\DoubleItems\DoubleItems\obj\Debug\netcoreapp2.0\DoubleItems.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-1\DoubleItems\DoubleItems\obj\Debug\netcoreapp2.0\DoubleItems.dll
+C:\greenfox\dugasmate\week-02\day-1\DoubleItems\DoubleItems\obj\Debug\netcoreapp2.0\DoubleItems.pdb

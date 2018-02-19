@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-1\Doubling\Doubling\bin\Debug\netcoreapp2.0\Doubling.deps.json
+C:\greenfox\dugasmate\week-02\day-1\Doubling\Doubling\bin\Debug\netcoreapp2.0\Doubling.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-1\Doubling\Doubling\bin\Debug\netcoreapp2.0\Doubling.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-1\Doubling\Doubling\bin\Debug\netcoreapp2.0\Doubling.dll
+C:\greenfox\dugasmate\week-02\day-1\Doubling\Doubling\bin\Debug\netcoreapp2.0\Doubling.pdb
+C:\greenfox\dugasmate\week-02\day-1\Doubling\Doubling\obj\Debug\netcoreapp2.0\Doubling.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-1\Doubling\Doubling\obj\Debug\netcoreapp2.0\Doubling.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\Doubling\Doubling\obj\Debug\netcoreapp2.0\Doubling.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\Doubling\Doubling\obj\Debug\netcoreapp2.0\Doubling.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-1\Doubling\Doubling\obj\Debug\netcoreapp2.0\Doubling.dll
+C:\greenfox\dugasmate\week-02\day-1\Doubling\Doubling\obj\Debug\netcoreapp2.0\Doubling.pdb

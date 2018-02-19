@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-1\AppendA2\AppendA2\bin\Debug\netcoreapp2.0\AppendA2.deps.json
+C:\greenfox\dugasmate\week-02\day-1\AppendA2\AppendA2\bin\Debug\netcoreapp2.0\AppendA2.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-1\AppendA2\AppendA2\bin\Debug\netcoreapp2.0\AppendA2.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-1\AppendA2\AppendA2\bin\Debug\netcoreapp2.0\AppendA2.dll
+C:\greenfox\dugasmate\week-02\day-1\AppendA2\AppendA2\bin\Debug\netcoreapp2.0\AppendA2.pdb
+C:\greenfox\dugasmate\week-02\day-1\AppendA2\AppendA2\obj\Debug\netcoreapp2.0\AppendA2.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\AppendA2\AppendA2\obj\Debug\netcoreapp2.0\AppendA2.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\AppendA2\AppendA2\obj\Debug\netcoreapp2.0\AppendA2.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-1\AppendA2\AppendA2\obj\Debug\netcoreapp2.0\AppendA2.dll
+C:\greenfox\dugasmate\week-02\day-1\AppendA2\AppendA2\obj\Debug\netcoreapp2.0\AppendA2.pdb
+C:\greenfox\dugasmate\week-02\day-1\AppendA2\AppendA2\obj\Debug\netcoreapp2.0\AppendA2.csprojResolveAssemblyReference.cache

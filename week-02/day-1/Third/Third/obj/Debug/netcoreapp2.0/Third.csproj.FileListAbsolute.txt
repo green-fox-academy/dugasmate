@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-1\Third\Third\bin\Debug\netcoreapp2.0\Third.deps.json
+C:\greenfox\dugasmate\week-02\day-1\Third\Third\bin\Debug\netcoreapp2.0\Third.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-1\Third\Third\bin\Debug\netcoreapp2.0\Third.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-1\Third\Third\bin\Debug\netcoreapp2.0\Third.dll
+C:\greenfox\dugasmate\week-02\day-1\Third\Third\bin\Debug\netcoreapp2.0\Third.pdb
+C:\greenfox\dugasmate\week-02\day-1\Third\Third\obj\Debug\netcoreapp2.0\Third.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-1\Third\Third\obj\Debug\netcoreapp2.0\Third.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\Third\Third\obj\Debug\netcoreapp2.0\Third.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-1\Third\Third\obj\Debug\netcoreapp2.0\Third.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-1\Third\Third\obj\Debug\netcoreapp2.0\Third.dll
+C:\greenfox\dugasmate\week-02\day-1\Third\Third\obj\Debug\netcoreapp2.0\Third.pdb
