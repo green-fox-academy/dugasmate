@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-2\TakesLonger\TakesLonger\bin\Debug\netcoreapp2.0\TakesLonger.deps.json
+C:\greenfox\dugasmate\week-02\day-2\TakesLonger\TakesLonger\bin\Debug\netcoreapp2.0\TakesLonger.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-2\TakesLonger\TakesLonger\bin\Debug\netcoreapp2.0\TakesLonger.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-2\TakesLonger\TakesLonger\bin\Debug\netcoreapp2.0\TakesLonger.dll
+C:\greenfox\dugasmate\week-02\day-2\TakesLonger\TakesLonger\bin\Debug\netcoreapp2.0\TakesLonger.pdb
+C:\greenfox\dugasmate\week-02\day-2\TakesLonger\TakesLonger\obj\Debug\netcoreapp2.0\TakesLonger.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-2\TakesLonger\TakesLonger\obj\Debug\netcoreapp2.0\TakesLonger.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\TakesLonger\TakesLonger\obj\Debug\netcoreapp2.0\TakesLonger.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\TakesLonger\TakesLonger\obj\Debug\netcoreapp2.0\TakesLonger.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-2\TakesLonger\TakesLonger\obj\Debug\netcoreapp2.0\TakesLonger.dll
+C:\greenfox\dugasmate\week-02\day-2\TakesLonger\TakesLonger\obj\Debug\netcoreapp2.0\TakesLonger.pdb

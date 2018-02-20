@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-2\ElementFinder\ElementFinder\bin\Debug\netcoreapp2.0\ElementFinder.deps.json
+C:\greenfox\dugasmate\week-02\day-2\ElementFinder\ElementFinder\bin\Debug\netcoreapp2.0\ElementFinder.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-2\ElementFinder\ElementFinder\bin\Debug\netcoreapp2.0\ElementFinder.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-2\ElementFinder\ElementFinder\bin\Debug\netcoreapp2.0\ElementFinder.dll
+C:\greenfox\dugasmate\week-02\day-2\ElementFinder\ElementFinder\bin\Debug\netcoreapp2.0\ElementFinder.pdb
+C:\greenfox\dugasmate\week-02\day-2\ElementFinder\ElementFinder\obj\Debug\netcoreapp2.0\ElementFinder.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-2\ElementFinder\ElementFinder\obj\Debug\netcoreapp2.0\ElementFinder.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\ElementFinder\ElementFinder\obj\Debug\netcoreapp2.0\ElementFinder.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\ElementFinder\ElementFinder\obj\Debug\netcoreapp2.0\ElementFinder.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-2\ElementFinder\ElementFinder\obj\Debug\netcoreapp2.0\ElementFinder.dll
+C:\greenfox\dugasmate\week-02\day-2\ElementFinder\ElementFinder\obj\Debug\netcoreapp2.0\ElementFinder.pdb

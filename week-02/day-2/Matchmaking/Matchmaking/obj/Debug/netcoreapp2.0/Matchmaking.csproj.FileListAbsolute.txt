@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-2\Matchmaking\Matchmaking\bin\Debug\netcoreapp2.0\Matchmaking.deps.json
+C:\greenfox\dugasmate\week-02\day-2\Matchmaking\Matchmaking\bin\Debug\netcoreapp2.0\Matchmaking.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-2\Matchmaking\Matchmaking\bin\Debug\netcoreapp2.0\Matchmaking.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-2\Matchmaking\Matchmaking\bin\Debug\netcoreapp2.0\Matchmaking.dll
+C:\greenfox\dugasmate\week-02\day-2\Matchmaking\Matchmaking\bin\Debug\netcoreapp2.0\Matchmaking.pdb
+C:\greenfox\dugasmate\week-02\day-2\Matchmaking\Matchmaking\obj\Debug\netcoreapp2.0\Matchmaking.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-2\Matchmaking\Matchmaking\obj\Debug\netcoreapp2.0\Matchmaking.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\Matchmaking\Matchmaking\obj\Debug\netcoreapp2.0\Matchmaking.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\Matchmaking\Matchmaking\obj\Debug\netcoreapp2.0\Matchmaking.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-2\Matchmaking\Matchmaking\obj\Debug\netcoreapp2.0\Matchmaking.dll
+C:\greenfox\dugasmate\week-02\day-2\Matchmaking\Matchmaking\obj\Debug\netcoreapp2.0\Matchmaking.pdb

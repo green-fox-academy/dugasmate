@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-2\AppendLetter\AppendLetter\obj\Debug\netcoreapp2.0\AppendLetter.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-2\AppendLetter\AppendLetter\obj\Debug\netcoreapp2.0\AppendLetter.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\AppendLetter\AppendLetter\obj\Debug\netcoreapp2.0\AppendLetter.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\AppendLetter\AppendLetter\obj\Debug\netcoreapp2.0\AppendLetter.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-2\AppendLetter\AppendLetter\bin\Debug\netcoreapp2.0\AppendLetter.deps.json
+C:\greenfox\dugasmate\week-02\day-2\AppendLetter\AppendLetter\bin\Debug\netcoreapp2.0\AppendLetter.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-2\AppendLetter\AppendLetter\bin\Debug\netcoreapp2.0\AppendLetter.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-2\AppendLetter\AppendLetter\bin\Debug\netcoreapp2.0\AppendLetter.dll
+C:\greenfox\dugasmate\week-02\day-2\AppendLetter\AppendLetter\bin\Debug\netcoreapp2.0\AppendLetter.pdb
+C:\greenfox\dugasmate\week-02\day-2\AppendLetter\AppendLetter\obj\Debug\netcoreapp2.0\AppendLetter.dll
+C:\greenfox\dugasmate\week-02\day-2\AppendLetter\AppendLetter\obj\Debug\netcoreapp2.0\AppendLetter.pdb

@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-2\SolarSystem\SolarSystem\obj\Debug\netcoreapp2.0\SolarSystem.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-2\SolarSystem\SolarSystem\obj\Debug\netcoreapp2.0\SolarSystem.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\SolarSystem\SolarSystem\obj\Debug\netcoreapp2.0\SolarSystem.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\SolarSystem\SolarSystem\obj\Debug\netcoreapp2.0\SolarSystem.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-2\SolarSystem\SolarSystem\bin\Debug\netcoreapp2.0\SolarSystem.deps.json
+C:\greenfox\dugasmate\week-02\day-2\SolarSystem\SolarSystem\bin\Debug\netcoreapp2.0\SolarSystem.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-2\SolarSystem\SolarSystem\bin\Debug\netcoreapp2.0\SolarSystem.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-2\SolarSystem\SolarSystem\bin\Debug\netcoreapp2.0\SolarSystem.dll
+C:\greenfox\dugasmate\week-02\day-2\SolarSystem\SolarSystem\bin\Debug\netcoreapp2.0\SolarSystem.pdb
+C:\greenfox\dugasmate\week-02\day-2\SolarSystem\SolarSystem\obj\Debug\netcoreapp2.0\SolarSystem.dll
+C:\greenfox\dugasmate\week-02\day-2\SolarSystem\SolarSystem\obj\Debug\netcoreapp2.0\SolarSystem.pdb

@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-2\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.deps.json
+C:\greenfox\dugasmate\week-02\day-2\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-2\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-2\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.dll
+C:\greenfox\dugasmate\week-02\day-2\Calculator\Calculator\bin\Debug\netcoreapp2.0\Calculator.pdb
+C:\greenfox\dugasmate\week-02\day-2\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-2\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-2\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.dll
+C:\greenfox\dugasmate\week-02\day-2\Calculator\Calculator\obj\Debug\netcoreapp2.0\Calculator.pdb

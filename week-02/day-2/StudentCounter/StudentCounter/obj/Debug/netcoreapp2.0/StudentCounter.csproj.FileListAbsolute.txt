@@ -1,0 +1,4 @@
+C:\greenfox\dugasmate\week-02\day-2\StudentCounter\StudentCounter\obj\Debug\netcoreapp2.0\StudentCounter.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-2\StudentCounter\StudentCounter\obj\Debug\netcoreapp2.0\StudentCounter.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\StudentCounter\StudentCounter\obj\Debug\netcoreapp2.0\StudentCounter.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\StudentCounter\StudentCounter\obj\Debug\netcoreapp2.0\StudentCounter.AssemblyInfo.cs

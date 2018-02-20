@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-2\QuoteSwap\QuoteSwap\bin\Debug\netcoreapp2.0\QuoteSwap.deps.json
+C:\greenfox\dugasmate\week-02\day-2\QuoteSwap\QuoteSwap\bin\Debug\netcoreapp2.0\QuoteSwap.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-2\QuoteSwap\QuoteSwap\bin\Debug\netcoreapp2.0\QuoteSwap.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-2\QuoteSwap\QuoteSwap\bin\Debug\netcoreapp2.0\QuoteSwap.dll
+C:\greenfox\dugasmate\week-02\day-2\QuoteSwap\QuoteSwap\bin\Debug\netcoreapp2.0\QuoteSwap.pdb
+C:\greenfox\dugasmate\week-02\day-2\QuoteSwap\QuoteSwap\obj\Debug\netcoreapp2.0\QuoteSwap.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-2\QuoteSwap\QuoteSwap\obj\Debug\netcoreapp2.0\QuoteSwap.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\QuoteSwap\QuoteSwap\obj\Debug\netcoreapp2.0\QuoteSwap.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\QuoteSwap\QuoteSwap\obj\Debug\netcoreapp2.0\QuoteSwap.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-2\QuoteSwap\QuoteSwap\obj\Debug\netcoreapp2.0\QuoteSwap.dll
+C:\greenfox\dugasmate\week-02\day-2\QuoteSwap\QuoteSwap\obj\Debug\netcoreapp2.0\QuoteSwap.pdb

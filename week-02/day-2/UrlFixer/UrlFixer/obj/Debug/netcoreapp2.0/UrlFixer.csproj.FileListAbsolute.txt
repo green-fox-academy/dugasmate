@@ -1,0 +1,11 @@
+C:\greenfox\dugasmate\week-02\day-2\UrlFixer\UrlFixer\bin\Debug\netcoreapp2.0\UrlFixer.deps.json
+C:\greenfox\dugasmate\week-02\day-2\UrlFixer\UrlFixer\bin\Debug\netcoreapp2.0\UrlFixer.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-2\UrlFixer\UrlFixer\bin\Debug\netcoreapp2.0\UrlFixer.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-2\UrlFixer\UrlFixer\bin\Debug\netcoreapp2.0\UrlFixer.dll
+C:\greenfox\dugasmate\week-02\day-2\UrlFixer\UrlFixer\bin\Debug\netcoreapp2.0\UrlFixer.pdb
+C:\greenfox\dugasmate\week-02\day-2\UrlFixer\UrlFixer\obj\Debug\netcoreapp2.0\UrlFixer.csprojResolveAssemblyReference.cache
+C:\greenfox\dugasmate\week-02\day-2\UrlFixer\UrlFixer\obj\Debug\netcoreapp2.0\UrlFixer.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\UrlFixer\UrlFixer\obj\Debug\netcoreapp2.0\UrlFixer.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\UrlFixer\UrlFixer\obj\Debug\netcoreapp2.0\UrlFixer.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-2\UrlFixer\UrlFixer\obj\Debug\netcoreapp2.0\UrlFixer.dll
+C:\greenfox\dugasmate\week-02\day-2\UrlFixer\UrlFixer\obj\Debug\netcoreapp2.0\UrlFixer.pdb

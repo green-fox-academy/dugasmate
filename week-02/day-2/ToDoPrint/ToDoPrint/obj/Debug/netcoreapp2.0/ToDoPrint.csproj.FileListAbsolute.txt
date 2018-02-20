@@ -1,0 +1,10 @@
+C:\greenfox\dugasmate\week-02\day-2\ToDoPrint\ToDoPrint\bin\Debug\netcoreapp2.0\ToDoPrint.deps.json
+C:\greenfox\dugasmate\week-02\day-2\ToDoPrint\ToDoPrint\bin\Debug\netcoreapp2.0\ToDoPrint.runtimeconfig.json
+C:\greenfox\dugasmate\week-02\day-2\ToDoPrint\ToDoPrint\bin\Debug\netcoreapp2.0\ToDoPrint.runtimeconfig.dev.json
+C:\greenfox\dugasmate\week-02\day-2\ToDoPrint\ToDoPrint\bin\Debug\netcoreapp2.0\ToDoPrint.dll
+C:\greenfox\dugasmate\week-02\day-2\ToDoPrint\ToDoPrint\bin\Debug\netcoreapp2.0\ToDoPrint.pdb
+C:\greenfox\dugasmate\week-02\day-2\ToDoPrint\ToDoPrint\obj\Debug\netcoreapp2.0\ToDoPrint.csproj.CoreCompileInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\ToDoPrint\ToDoPrint\obj\Debug\netcoreapp2.0\ToDoPrint.AssemblyInfoInputs.cache
+C:\greenfox\dugasmate\week-02\day-2\ToDoPrint\ToDoPrint\obj\Debug\netcoreapp2.0\ToDoPrint.AssemblyInfo.cs
+C:\greenfox\dugasmate\week-02\day-2\ToDoPrint\ToDoPrint\obj\Debug\netcoreapp2.0\ToDoPrint.dll
+C:\greenfox\dugasmate\week-02\day-2\ToDoPrint\ToDoPrint\obj\Debug\netcoreapp2.0\ToDoPrint.pdb
