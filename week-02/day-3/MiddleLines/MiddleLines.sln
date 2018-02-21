@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleLines", "MiddleLines\MiddleLines.csproj", "{46157676-CBF6-41D7-9D59-91F84C58BBBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46157676-CBF6-41D7-9D59-91F84C58BBBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46157676-CBF6-41D7-9D59-91F84C58BBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46157676-CBF6-41D7-9D59-91F84C58BBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46157676-CBF6-41D7-9D59-91F84C58BBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13FF52F8-9FDF-4563-85F5-FC1F0468938E}
+	EndGlobalSection
+EndGlobal
