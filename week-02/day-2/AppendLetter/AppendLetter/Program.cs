@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace AppendLetter
 {
@@ -15,14 +16,21 @@ namespace AppendLetter
             Console.ReadLine();
             // Expected output: "kutya", "macska", "kacsa", "róka", "halacska"
         }
-        static string AppendA(List<string> far)
+        static StringBuilder AppendA(List<string> far)
         {
-            string output = "";
-            foreach (var farA in far)
+            StringBuilder builder = new StringBuilder();
+            for (int i = 0; i < far.Count; i++)
             {
-                output += ("\"" + farA + "a\" ");
+                if (i == far.Count - 1)
+                {
+                    builder = builder.Append("\"" + far[i] + "a\" ");
+                }
+                else
+                {
+                    builder = builder.Append("\"" + far[i] + "a\", ");
+                }
             }
-            return output;
+            return builder;
         }
     }
 }

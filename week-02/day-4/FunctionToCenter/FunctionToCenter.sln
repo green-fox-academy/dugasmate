@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionToCenter", "FunctionToCenter\FunctionToCenter.csproj", "{B91E7F05-DB20-4209-9F7F-9B7D08292018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B91E7F05-DB20-4209-9F7F-9B7D08292018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91E7F05-DB20-4209-9F7F-9B7D08292018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91E7F05-DB20-4209-9F7F-9B7D08292018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91E7F05-DB20-4209-9F7F-9B7D08292018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29BE9F30-ECC6-4B74-837D-3947165D5C65}
+	EndGlobalSection
+EndGlobal
