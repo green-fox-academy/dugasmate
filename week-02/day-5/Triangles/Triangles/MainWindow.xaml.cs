@@ -21,22 +21,21 @@ namespace Triangles
     /// </summary>
     public partial class MainWindow : Window
     {
-        private static object foxDraw;
 
         public MainWindow()
         {
             InitializeComponent();
             var foxDraw = new FoxDraw(canvas);
-            Pyramid(foxDraw);
+            TriangleDraw(foxDraw);
 
         }
 
-        static void Pyramid(FoxDraw foxDraw)
+        static void TriangleDraw(FoxDraw foxDraw)
         {
-            double startPointW = 0;
-            double startPointH = 420;
-            double endPointW = 420;
-            double endPointH = 420;
+            int startPointW = 0;
+            int startPointH = 420;
+            int endPointW = 420;
+            int endPointH = 420;
             foxDraw.StrokeColor(Colors.Black);
             for (int i = 0; i < 21; i++)
             {
@@ -72,6 +71,7 @@ namespace Triangles
                 startPointW -= 20;
                 endPointW -= 10;
                 endPointH += 20;
+
             }
         }
     }

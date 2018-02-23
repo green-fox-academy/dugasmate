@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SuperHexagon"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="350">
+        Title="MainWindow" Height="600" Width="600">
     <Grid>
-        <Canvas Name="canvas" Height="300" Width="300"/>
+        <Canvas Name="canvas" Height="600" Width="600"/>
     </Grid>
 </Window>

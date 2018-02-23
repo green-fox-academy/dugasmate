@@ -47,25 +47,34 @@ namespace SuperHexagon
                         foxDraw.StrokeColor(Colors.Black);
 
                         foxDraw.DrawLine(startPointW, startPointH, endPointW, endPointH);
-                        foxDraw.DrawLine(endPointW, endPointH, endPointW + 10, endPointH + 15);
-                        startPointH = startPointH + 30;
-                        endPointH = endPointH + 30;
+                        if (j < 4 + i)
+                        {
+                            foxDraw.DrawLine(startPointW, startPointH + 30, endPointW - 30, endPointH + 15);
+                            foxDraw.DrawLine(startPointW, startPointH, endPointW - 30, endPointH + 15);
+                            startPointH = startPointH + 30;
+                            endPointH = endPointH + 30;
+                        }
                     }
-
-                    }
+                }
+                startPointW = 80;
+                startPointH = 80;
+                endPointW = 100;
+                endPointH = 80;
                 if (i > 3)
                 {
+
                     startPointW = startPointW - i * 30;
                     endPointW = endPointW - i * 30; ;
                     startPointH = startPointH - i * 15;
                     endPointH = endPointH - i * 15;
-                    for (int j = 5; j > 0 + i; j--)
-                        //dont leave comnets here
+                    for (int j = 11; j > 11 - i; j--)
                     {
-                        foxDraw.StrokeColor(Colors.Black);
-
+                        if (j > 6)
+                        {
+                            foxDraw.DrawLine(endPointW, endPointH + 30, startPointW + 30, startPointH + 15);
+                            foxDraw.DrawLine(endPointW, endPointH, startPointW + 30, startPointH + 15);
+                        }
                         foxDraw.DrawLine(startPointW, startPointH, endPointW, endPointH);
-                        foxDraw.DrawLine(endPointW, endPointH, endPointW + 10, endPointH + 15);
                         startPointH = startPointH + 30;
                         endPointH = endPointH + 30;
                     }

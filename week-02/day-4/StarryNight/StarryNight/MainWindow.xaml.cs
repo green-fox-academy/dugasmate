@@ -22,24 +22,23 @@ namespace StarryNight
         {
             InitializeComponent();
             var foxDraw = new FoxDraw(canvas);
+            canvas.Background = Brushes.Black;
+            Random rnd = new Random();
+            Random random = new Random();
             // Draw the night sky:
             //  - The background should be black
             //  - The stars can be small squares
             //  - The stars should have random positions on the canvas
             //  - The stars should have random color (some shade of grey)
-            canvas.Background = Brushes.Black;
-            Random rnd = new Random();
-            Random random = new Random();
 
             for (int i = 0; i < 200; i++)
             {
-                byte randomNumber = (byte)random.Next(100, 230);
-                foxDraw.StrokeColor(Color.FromRgb(randomNumber, randomNumber,randomNumber));
+                byte randomNumber = (byte)random.Next(150, 200);
+                foxDraw.StrokeColor(Color.FromRgb(randomNumber, randomNumber, randomNumber));
                 foxDraw.FillColor(Color.FromRgb(randomNumber, randomNumber, randomNumber));
                 int x = rnd.Next(5, 955);
                 int y = rnd.Next(5, 995);
                 foxDraw.DrawRectangle(x, y, 5, 5);
-
             }
 
 
