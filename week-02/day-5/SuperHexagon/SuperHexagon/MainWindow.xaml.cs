@@ -60,6 +60,7 @@ namespace SuperHexagon
                     startPointH = startPointH - i * 15;
                     endPointH = endPointH - i * 15;
                     for (int j = 5; j > 0 + i; j--)
+                        //dont leave comnets here
                     {
                         foxDraw.StrokeColor(Colors.Black);
 
