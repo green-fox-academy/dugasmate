@@ -5,7 +5,7 @@ namespace FleetOfThings
 {
     public class Fleet
     {
-        public List<Thing> Things;
+        public static List<Thing> Things;
 
         public Fleet()
         {

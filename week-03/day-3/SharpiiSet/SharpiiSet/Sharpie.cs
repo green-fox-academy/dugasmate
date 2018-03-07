@@ -17,19 +17,11 @@ namespace SharpiiSet
         }
         public double Use(double usage)
         {
-            return inkAmount -= 1.5;
+            Console.WriteLine("Used sharpie");
+            return inkAmount -= usage;
+            
         }
-        bool CountUsable(double inkAmount)
-        {
-            if (inkAmount >= 0)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-        }
+
 
     }
 

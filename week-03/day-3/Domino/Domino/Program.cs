@@ -14,7 +14,7 @@ namespace Domino
                 {
                     if (j % 2 == 0 )
                     {
-                        Console.Write("[" + dominoes[i].GetValues()[j] + " + ");
+                        Console.Write(dominoes[i].GetValues()[j] + " + ");
                         
                     }
                     if (j % 2 != 0)

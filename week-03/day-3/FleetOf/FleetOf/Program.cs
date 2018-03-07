@@ -7,14 +7,14 @@ namespace FleetOfThings
         public static void Main(string[] args)
         {
             var fleet = new Fleet();
-            Thing first = new Thing ("1. [ ] Get milk");
-            Thing second = new Thing("2. [ ] Remove the obstacles");
-            Thing third = new Thing("3. [x] Stand up");
-            Thing fourth = new Thing("4. [x] Eat lunch");
-            fleet.Add(first);
-            fleet.Add(second);
-            fleet.Add(third);
-            fleet.Add(fourth);
+            fleet.Add(new Thing("1. [ ] Get milk"));
+            fleet.Add(new Thing("2. [ ] Remove the obstacles"));
+            fleet.Add(new Thing("3. [x] Stand up"));
+            fleet.Add(new Thing("4. [x] Eat lunch"));
+            for (int i = 0; i < Fleet.Things.Count; i++)
+            {
+                Console.WriteLine(Fleet.Things[i]);
+            }
             Console.ReadLine();
 
             // Create a fleet of things to have this output:
