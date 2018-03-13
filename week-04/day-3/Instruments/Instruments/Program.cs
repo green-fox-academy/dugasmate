@@ -1,8 +1,9 @@
-﻿using System;
+﻿using Instruments;
+using System;
 
-namespace Instruments
+namespace ConcertHall
 {
-    class Program
+    public class AppMusic
     {
         static void Main(string[] args)
         {

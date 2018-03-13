@@ -7,10 +7,9 @@ namespace Fibonacci
         static void Main(string[] args)
         {
             int p = Int32.Parse(Console.ReadLine());
-            for (int i = 0; i <= p; i++)
-            {
-                Console.WriteLine(Fibonacci(i));
-            }
+
+            Console.WriteLine(Fibonacci(p));
+
             Console.ReadLine();
         }
         public static int Fibonacci(int n)

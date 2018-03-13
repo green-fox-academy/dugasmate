@@ -6,17 +6,13 @@ namespace GoodGardenApp
 {
     class Flower : Plant
     {
-        double waterIntake = 0.75;
-        double maxWater = 5;
-
-        public Flower(string color) : base(color)
+        public Flower(string color, double waterMax = 5, double waterIntake = 0.75) : base(color, waterMax, waterIntake)
         {
-  
+
         }
         public override void WhatsUp()
         {
-
-            if (waterAmount < maxWater)
+            if (waterAmount < waterMax)
             {
                 Console.WriteLine(color + " flower needs water.");
             }
@@ -24,18 +20,6 @@ namespace GoodGardenApp
             {
                 Console.WriteLine(color + " flower doesnt need water.");
             }
-        }
-        public override void WaterPlants(double portion)
-        {
-            if (waterAmount < maxWater)
-            {
-                waterAmount = waterAmount +  portion * waterIntake;
-            }
-            else
-            {
-                portion = 0;
-            }
-
         }
     }
 }

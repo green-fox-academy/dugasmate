@@ -1,22 +1,12 @@
 ﻿using System;
 
-namespace Anagram
+namespace AnagramTest
 {
-    class Program
+    public class Anagram
     {
-        static void Main(string[] args)
-        {
-            string firstWord = "szotyi";
-            string secondWord = "szotyi";
-            Console.WriteLine(IsAnagram(firstWord, secondWord));
-            Console.ReadLine();
-
-
-        }
-        static bool IsAnagram(string firstWord, string secondWord)
+        public bool IsAnagram(string firstWord, string secondWord)
         {
             bool output = true;
-
             char[] arrFirstWord = firstWord.ToCharArray();
             char[] arrSecondWord = secondWord.ToCharArray();
             Array.Sort(arrFirstWord);

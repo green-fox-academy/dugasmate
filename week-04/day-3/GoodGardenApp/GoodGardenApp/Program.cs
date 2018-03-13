@@ -8,18 +8,14 @@ namespace GoodGardenApp
         static void Main(string[] args)
         {
             TheGarden garden = new TheGarden();
-            var yellowF = new Flower("yellow");
-            var blueF = new Flower("blue");
-            var purpleF = new Tree("purple");
-            var orangeF = new Tree("orange");
-            garden.AddPlant(blueF);
-            garden.AddPlant(yellowF);
-            garden.AddPlant(purpleF);
-            garden.AddPlant(orangeF);
+            garden.AddPlant( new Flower("Yellow"));
+            garden.AddPlant(new Flower("Blue"));
+            garden.AddPlant(new Tree("Purple"));
+            garden.AddPlant(new Tree("Orange"));
             garden.StateOfGarden();
             garden.PlantWaterer(40);
             garden.StateOfGarden();
-            garden.PlantWaterer(70);
+            garden.PlantWaterer(50);
             garden.StateOfGarden();
             Console.WriteLine();
             Console.ReadLine();
