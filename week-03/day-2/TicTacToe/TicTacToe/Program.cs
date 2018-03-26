@@ -17,7 +17,7 @@ namespace TicTacToe
 
                     if (content[i][j] == content[i + 1][j] && content[i + 1][j] == content[i + 2][j])
                     {
-                        Console.WriteLine("NICE");
+                        Console.WriteLine(content[i][j]);
                     }
                     if (content[i][j] == content[i][j + 1] && content[i][j + 1] == content[i][j + 2])
                     {
