@@ -12,10 +12,10 @@ namespace Elso.Controllers
         public class WebController : Controller
         {
             [Route("greeting")]
-            public IActionResult Greeting()
+            public IActionResult Greeting(string name)
             {
-            var greeting = new Greeting("World");
-                return View(greeting);
+            var greeting = new Greeting(name);
+            return View(greeting);
             }
 
         }
