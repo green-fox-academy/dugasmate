@@ -1,0 +1,63 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>BankAccount</title>
+    <style>
+        table, th, td {
+            border: 2px solid black;
+            background-color: darkolivegreen
+        }
+    </style>
+</head>
+<body>
+    <table style="width:100%">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Balance</th>
+            <th>Type</th>
+            <th>King</th>
+            <th>Alignment</th>
+        </tr>
+        @foreach (var animal in Model.bankAccounts)
+        {
+            if (animal.isKing == true)
+            {
+                
+                    <tr>
+
+                        <td><font color="Yellow">@animal.id</font></td>
+                        <td><font color="Yellow">@animal.name</font></td>
+                        <td><font color="Yellow">@animal.balance.00 Ƶ</font></td>
+                        <td><font color="Yellow">@animal.animalType</font></td>
+                        <td><font color="Yellow">@animal.isKing</font></td>
+                        <td><font color="Yellow">@animal.badOrGood</font></td>
+                    </tr>
+                
+            }
+            else
+            {
+                
+                <tr>
+                    
+                        <td>@animal.id</td>
+                        <td>@animal.name</td>
+                        <td>@animal.balance.00 Ƶ</td>
+                        <td>@animal.animalType</td>
+                        <td>@animal.isKing</td>
+                        <td>@animal.badOrGood</td>
+                    
+                </tr>
+                
+    }
+
+    }
+</table>
+</body>
+</html>
