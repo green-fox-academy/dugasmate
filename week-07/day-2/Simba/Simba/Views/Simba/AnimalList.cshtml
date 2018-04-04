@@ -1,7 +1,4 @@
-﻿@{
-    Layout = null;
-}
-
+﻿
 <!DOCTYPE html>
 
 <html>
@@ -25,39 +22,48 @@
             <th>King</th>
             <th>Alignment</th>
         </tr>
-        @foreach (var animal in Model.bankAccounts)
+        @foreach (var animal in @Model)
         {
-            if (animal.isKing == true)
+            if (animal.isKing)
             {
-                
-                    <tr>
 
-                        <td><font color="Yellow">@animal.id</font></td>
-                        <td><font color="Yellow">@animal.name</font></td>
-                        <td><font color="Yellow">@animal.balance.00 Ƶ</font></td>
-                        <td><font color="Yellow">@animal.animalType</font></td>
-                        <td><font color="Yellow">@animal.isKing</font></td>
-                        <td><font color="Yellow">@animal.badOrGood</font></td>
-                    </tr>
-                
+                <tr>
+                    <td><font color="Yellow">@animal.id</font></td>
+                    <td><font color="Yellow">@animal.name</font></td>
+                    <td><font color="Yellow">@animal.balance.00 Ƶ</font></td>
+                    <td><font color="Yellow">@animal.animalType</font></td>
+                    <td><font color="Yellow">@animal.isKing</font></td>
+                    <td><font color="Yellow">@animal.badOrGood</font></td>
+                </tr>
+
+
             }
             else
             {
-                
-                <tr>
-                    
-                        <td>@animal.id</td>
-                        <td>@animal.name</td>
-                        <td>@animal.balance.00 Ƶ</td>
-                        <td>@animal.animalType</td>
-                        <td>@animal.isKing</td>
-                        <td>@animal.badOrGood</td>
-                    
-                </tr>
-                
-    }
 
-    }
-</table>
+                <tr>
+
+                    <td>@animal.id</td>
+                    <td>@animal.name</td>
+                    <td>@animal.balance.00 Ƶ</td>
+                    <td>@animal.animalType</td>
+                    <td>@animal.isKing</td>
+                    <td>@animal.badOrGood</td>
+                </tr>
+            }
+        }
+    </table>
+    <form action="Add" method="post">
+        <input type="number" placeholder="ID" name="index" />
+        <input type="submit" value="Increase balance!">
+    </form>
+    <form action="AddAccount" method="post">
+        <input type="text" placeholder="NAME?" name="name" />
+        <input type="number" placeholder="BALANCE?" name="balance" />
+        <input type="text" placeholder="ANIMAL TYPE?" name="animalType" />
+        <input type="text" placeholder="KING?" name="isKing" />
+        <input type="text" placeholder="BAD OR GOOD?" name="badOrGood" />
+        <input type="submit" value="Adjad neki tesa!">
+    </form>
 </body>
 </html>

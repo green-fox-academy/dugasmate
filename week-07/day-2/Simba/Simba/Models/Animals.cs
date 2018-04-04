@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace Simba.Models
 {
-    public class AnimalList
+    public class Animals
     {
-        public List<BankAccount> bankAccounts = new List<BankAccount>
+        public static List<BankAccount> bankAccounts = new List<BankAccount>
             {
                 new BankAccount("Simba", 2000, "Lion", true, "Good"),
                 new BankAccount("Scar", 4000, "Lion", false, "Bad"),

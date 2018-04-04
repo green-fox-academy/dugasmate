@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Elso.Controllers
 {
 
-        [Route("web")]
+            [Route("web")]
         public class WebController : Controller
         {
             [Route("greeting")]
