@@ -1,0 +1,53 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        table, th, td {
+            border: 2px solid black;
+            background-color: red
+        }
+    </style>
+</head>
+<body>
+    <table style="width:100%">
+        <tr>
+            <th>ID</th>
+            <th>Done</th>
+            <th>Description</th>
+        </tr>
+        @foreach (var toDo in Model.toDoList)
+        {
+
+            @if (toDo.isDone)
+            {
+                <tr>
+                    <td><center>@toDo.id</center></td>
+                    <td><center>X</center></td>
+                    <td><center>@toDo.description</center></td>
+                </tr>
+            }
+            else
+            {
+                <tr>
+                    <td><center>@toDo.id</center></td>
+                    <td> </td>
+                    <td><center>@toDo.description</center></td>
+                </tr>
+            }
+        }
+    </table>
+
+    <form action="Add" method="post">
+        <input type="text" placeholder="Task" name="task" />
+        <input type="submit" value="Több munka teso!">
+    </form>
+    <form action="Remove" method="post">
+        <input type="number" placeholder="ID" name="index" />
+        <input type="submit" value="Vedd le teso!">
+    </form>
+    <form action="Check" method="post">
+        <input type="number" placeholder="ID" name="index" />
+        <input type="submit" value="Kész van teso!">
+    </form>
+</body>
+</html>
