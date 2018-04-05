@@ -26,6 +26,7 @@ namespace ToDo.Models
         public void Check(int index)
         {
             toDoList[index].isDone = true;
+
         }
     }
 }
