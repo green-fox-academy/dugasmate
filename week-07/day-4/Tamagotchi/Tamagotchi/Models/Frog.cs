@@ -17,9 +17,17 @@ namespace Tamagotchi.Models
             new Trick ("http://rs4.pbsrc.com/albums/y108/kazaf_10/Keroro%20Emoticons/8fd8dd.gif~c200" , "Do something weird" ),
             new Trick ("https://thumbs.gfycat.com/IncompatibleConstantIndianrhinoceros-max-1mb.gif" , "Pump it!" )
         };
+        public List<Trick> unlearnedTricks = new List<Trick>
+        {
+            new Trick ("https://vignette.wikia.nocookie.net/keroro/images/6/67/Tumblr_m4lru46JUU1qmmau8o1_400.gif/revision/latest?cb=20121021024950" , "Jump around!" ),
+        };
         public List<string> foodList = new List<string>
         {
-            "Spaghetthththti", "Tölti kápi", "Rakottkrumpla"
+            "flies", "spaghetthththti", "tölti kápi", "rakottkrumpla"
+        };
+        public List<string> drinkList = new List<string>
+        {
+            "water", "beer", "coke", "orange juice"
         };
         public Frog(string name = "", string food = "flies", string drink = "water (I guess...)", string image = "https://thumbs.gfycat.com/IncompatibleConstantIndianrhinoceros-max-1mb.gif")
         {
@@ -27,6 +35,21 @@ namespace Tamagotchi.Models
             this.food = food;
             this.drink = drink;
             this.image = image;
+        }
+
+        public void AddDrink(int i)
+        {
+            drink = drinkList[i];
+        }
+
+        public void AddFood(int i)
+        {
+            food = foodList[i];
+        }
+
+        public void AddTrick(int i)
+        {
+            tricks.Add(unlearnedTricks[i]);
         }
 
         public void DoTrick(int i)

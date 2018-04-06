@@ -6,13 +6,30 @@
     <title>View</title>
 </head>
 <body>
-    <p>Mi kaja kell teso?</p>
-    <select>
-        @for (int i = 0; i < Model.foodList.Count; i++)
-    {
-        <option value="volvo">@Model.foodList[i]</option>
-}
-    </select>
+    <p>What to eat/drink?</p>
+    <form action="addfood" method="get">
+        <select name="i">
+            @for (int i = 0; i < Model.foodList.Count; i++)
+            {
+                <option value="@i">@Model.foodList[i]</option>
+
+            }
+
+        </select>
+        <button type="submit">Eat it!</button>
+    </form>
+    <form action="adddrink" method="get">
+        <select name="i">
+            @for (int i = 0; i < Model.foodList.Count; i++)
+            {
+                <option value="@i">@Model.drinkList[i]</option>
+
+            }
+
+        </select>
+        <button type="submit">Drink it!</button>
+    </form>
+
     <form action="trickstore" method="get">
         <input type="submit" value="Trick Store">
     </form>

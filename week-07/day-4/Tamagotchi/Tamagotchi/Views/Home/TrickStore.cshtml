@@ -8,6 +8,17 @@
 </head>
 <body>
     <p>Mi trikk kell teso?</p>
+    <form action="addtrick" method="get">
+        <select name="i">
+            @for (int i = 0; i < Model.unlearnedTricks.Count; i++)
+            {
+                <option value="@i">@Model.unlearnedTricks[i].description</option>
+
+            }
+
+        </select>
+        <button type="submit">Learn it!</button>
+    </form>
     <form action="nutritionstore" method="get">
         <input type="submit" value="Nutrition Store">
     </form>

@@ -47,13 +47,34 @@ namespace Tamagotchi.Controllers
         [Route("trickstore")]
         public IActionResult TrickStore()
         {
-            return View();
+            return View(frogger);
         }
         [HttpGet]
         [Route("nutritionstore")]
         public IActionResult NutritionStore()
         {
             return View(frogger);
+        }
+        [HttpGet]
+        [Route("addfood")]
+        public IActionResult AddFood(int i)
+        {
+            frogger.AddFood(i);
+            return RedirectToAction("nutritionstore");
+        }
+        [HttpGet]
+        [Route("adddrink")]
+        public IActionResult AddDrink(int i)
+        {
+            frogger.AddDrink(i);
+            return RedirectToAction("nutritionstore");
+        }
+        [HttpGet]
+        [Route("addtrick")]
+        public IActionResult AddTrick(int i)
+        {
+            frogger.AddTrick(i);
+            return RedirectToAction("trickstore");
         }
     }
 }

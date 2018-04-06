@@ -9,5 +9,8 @@ namespace Tamagotchi.Models
     {
         void SetName(string name);
         void DoTrick(int i);
+        void AddFood(int i);
+        void AddDrink(int i);
+        void AddTrick(int i);
     }
 }
