@@ -1,10 +1,27 @@
-﻿<html xmlns="http://www.w3.org/1999/xhtml">
+﻿<html>
 <head>
     <title>Frog Club</title>
+    <style>
+        body {
+            background-color: green;
+        }
+
+        p, h1, form {
+            text-align: center;
+        }
+
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: auto;
+            height: 400px;
+        }
+    </style>
 </head>
 <body>
     <h1>Frog Club</h1>
-    <img src="@Model.image" style="width:400px;height:400px;" />
+    <img src="@Model.image" />
     <p>This is @Model.name living on @Model.food and @Model.drink.</p>
         <form action="trick" method="post">
             <select name="i">

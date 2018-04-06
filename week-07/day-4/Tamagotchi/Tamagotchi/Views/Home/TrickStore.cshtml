@@ -5,9 +5,26 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>TrickStore</title>
+    <style>
+        body {
+            background-color: green;
+        }
+        p, h1, form {
+            text-align: center;
+            
+        }
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: auto;
+            height: 400px;
+        }
+    </style>
 </head>
 <body>
-    <p>What to learn?</p>
+    <h1>What to learn?</h1>
+    <img src="https://i.ytimg.com/vi/s39I9BusYaM/maxresdefault.jpg"/>
     <form action="addtrick" method="get">
         <select name="i">
             @for (int i = 0; i < Model.unlearnedTricks.Count; i++)

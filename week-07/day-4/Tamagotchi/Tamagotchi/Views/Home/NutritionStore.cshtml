@@ -4,10 +4,28 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>View</title>
+    <style>
+        body {
+            background-color: green;
+        }
+
+        p, h1, form {
+            text-align: center;
+        }
+
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: auto;
+            height: 400px;
+        }
+    </style>
 </head>
 <body>
-    <p>What to eat/drink?</p>
-    <form action="addfood" method="get">
+    <h1>What can I get ya?</h1>
+    <img src="https://78.media.tumblr.com/e1d5e654d3956015ce157b7bcb3aa243/tumblr_oqkl34wgEi1w4nidlo1_500.gif" />
+    <form action="addnutrition" method="get">
         <select name="i">
             @for (int i = 0; i < Model.foodList.Count; i++)
             {
@@ -16,10 +34,8 @@
             }
 
         </select>
-        <button type="submit">Eat it!</button>
-    </form>
-    <form action="adddrink" method="get">
-        <select name="i">
+    <form action="addnutrition" method="get">
+        <select name="i2">
             @for (int i = 0; i < Model.foodList.Count; i++)
             {
                 <option value="@i">@Model.drinkList[i]</option>
@@ -27,7 +43,7 @@
             }
 
         </select>
-        <button type="submit">Drink it!</button>
+        <button type="submit">Change diet!</button>
     </form>
 
     <form action="trickstore" method="get">
