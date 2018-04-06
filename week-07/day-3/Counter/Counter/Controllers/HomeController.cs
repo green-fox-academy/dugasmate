@@ -26,7 +26,7 @@ namespace Counter.Controllers
         public IActionResult Same()
         {
             countPlz.Count();
-            return RedirectToAction("Index");
+            return RedirectToAction("");
         }
 
     }

@@ -8,6 +8,6 @@ namespace Tamagotchi.Models
     public interface IFroggy
     {
         void SetName(string name);
-        void DoTrick();
+        void DoTrick(int i);
     }
 }

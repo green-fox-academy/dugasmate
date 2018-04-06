@@ -11,10 +11,15 @@ namespace Tamagotchi.Models
         public string food;
         public string drink;
         public string image;
-        public List<string> tricks = new List<string>
+        public List<Trick> tricks = new List<Trick>
         {
-            "Do something weird",
-            "Dance"
+            new Trick ("http://rs279.pbsrc.com/albums/kk138/Shidou_Master/tumblr_inline_mnjz5hev0l1qz4rgp.gif~c200" , "Be mellow!" ),
+            new Trick ("http://rs4.pbsrc.com/albums/y108/kazaf_10/Keroro%20Emoticons/8fd8dd.gif~c200" , "Do something weird" ),
+            new Trick ("https://thumbs.gfycat.com/IncompatibleConstantIndianrhinoceros-max-1mb.gif" , "Pump it!" )
+        };
+        public List<string> foodList = new List<string>
+        {
+            "Spaghetthththti", "Tölti kápi", "Rakottkrumpla"
         };
         public Frog(string name = "", string food = "flies", string drink = "water (I guess...)", string image = "https://thumbs.gfycat.com/IncompatibleConstantIndianrhinoceros-max-1mb.gif")
         {
@@ -24,9 +29,9 @@ namespace Tamagotchi.Models
             this.image = image;
         }
 
-        public void DoTrick()
+        public void DoTrick(int i)
         {
-            image = "http://rs279.pbsrc.com/albums/kk138/Shidou_Master/tumblr_inline_mnjz5hev0l1qz4rgp.gif~c200";
+            image = tricks[i].image;
         }
 
         public void SetName(string givenName)

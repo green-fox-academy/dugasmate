@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+</head>
+<body>
+    <p>Mi kaja kell teso?</p>
+    <select>
+        @for (int i = 0; i < Model.foodList.Count; i++)
+    {
+        <option value="volvo">@Model.foodList[i]</option>
+}
+    </select>
+    <form action="trickstore" method="get">
+        <input type="submit" value="Trick Store">
+    </form>
+    <form action="index" method="get">
+        <input type="submit" value="Back to your pet!">
+    </form>
+</body>
+</html>

@@ -38,10 +38,22 @@ namespace Tamagotchi.Controllers
         }
         [HttpPost]
         [Route("trick")]
-        public IActionResult Trick()
+        public IActionResult Trick(int i)
         {
-            frogger.DoTrick();
+            frogger.DoTrick(i);
             return RedirectToAction("index");
+        }
+        [HttpGet]
+        [Route("trickstore")]
+        public IActionResult TrickStore()
+        {
+            return View();
+        }
+        [HttpGet]
+        [Route("nutritionstore")]
+        public IActionResult NutritionStore()
+        {
+            return View(frogger);
         }
     }
 }
