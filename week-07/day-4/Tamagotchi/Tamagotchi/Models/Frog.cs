@@ -20,10 +20,12 @@ namespace Tamagotchi.Models
         public List<Trick> unlearnedTricks = new List<Trick>
         {
             new Trick ("https://vignette.wikia.nocookie.net/keroro/images/6/67/Tumblr_m4lru46JUU1qmmau8o1_400.gif/revision/latest?cb=20121021024950" , "Jump around!" ),
+            new Trick ("http://rs4.pbsrc.com/albums/y108/kazaf_10/Keroro%20Emoticons/8dd8d88.gif~c200" , "Shake your booty!" ),
+            new Trick ("http://rs4.pbsrc.com/albums/y108/kazaf_10/Keroro%20Emoticons/8dO88.gif~c200" , "Mental breakdown!" )
         };
         public List<string> foodList = new List<string>
         {
-            "flies", "spaghetthththti", "tölti kápi", "rakottkrumpla"
+            "flies", "spaghetti", "cabbage", "potato"
         };
         public List<string> drinkList = new List<string>
         {
@@ -50,6 +52,7 @@ namespace Tamagotchi.Models
         public void AddTrick(int i)
         {
             tricks.Add(unlearnedTricks[i]);
+            unlearnedTricks.RemoveAt(i);
         }
 
         public void DoTrick(int i)
