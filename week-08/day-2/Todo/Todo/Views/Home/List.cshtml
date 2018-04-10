@@ -1,0 +1,28 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>What to do?</th>
+            <th>Done?</th>
+            <th>Urgent?</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.IsDone</td>
+                <td>@item.IsUrgent</td>
+            </tr>
+        }
+
+    </table>
+    <form action="create" method="post">
+        <input type="text" name="title" />
+        <input type="submit" value="Adjad">
+    </form>
+</body>
+</html>

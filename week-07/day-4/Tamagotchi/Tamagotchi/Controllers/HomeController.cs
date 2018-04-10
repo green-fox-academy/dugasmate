@@ -34,7 +34,7 @@ namespace Tamagotchi.Controllers
         public IActionResult Login(string givenName)
         {
             frogger.SetName(givenName);
-            return RedirectToAction("index");
+            return RedirectToAction("frame");
         }
         [HttpPost]
         [Route("trick")]
@@ -61,7 +61,7 @@ namespace Tamagotchi.Controllers
         {
             frogger.AddFood(i);
             frogger.AddDrink(i2);
-            return RedirectToAction("nutritionstore");
+            return RedirectToAction("index");
         }
         [HttpGet]
         [Route("addtrick")]
@@ -69,6 +69,11 @@ namespace Tamagotchi.Controllers
         {
             frogger.AddTrick(i);
             return RedirectToAction("trickstore");
+        }
+        [Route("frame")]
+        public IActionResult Frame()
+        {
+            return View();
         }
     }
 }
