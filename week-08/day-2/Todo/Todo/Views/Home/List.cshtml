@@ -1,10 +1,16 @@
 ﻿<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title></title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
 </head>
 <body>
-    <table>
+    <form action="search" method="post">
+        <input type="text" placeholder="title" name="title" />
+        <input class="btn btn-danger" type="submit" value="Keressed">
+    </form>
+    <table class="table">
         <tr>
+            <th>ID</th>
             <th>What to do?</th>
             <th>Done?</th>
             <th>Urgent?</th>
@@ -13,16 +19,28 @@
         @foreach (var item in Model)
         {
             <tr>
+                <td>@item.Id</td>
                 <td>@item.Title</td>
-                <td>@item.IsDone</td>
+                <td>
+                    @item.IsDone
+                </td>
                 <td>@item.IsUrgent</td>
             </tr>
         }
 
     </table>
     <form action="create" method="post">
-        <input type="text" name="title" />
-        <input type="submit" value="Adjad">
+        <input type="text" placeholder="Description" name="title" />
+        <input class="btn btn-danger" type="submit" value="Adjad">
+    </form>
+    <form action="remove" method="post">
+        <input type="number" placeholder="ID" name="id" />
+        <input class="btn btn-danger" type="submit" value="Vedd le">
+    </form>
+    <form action="update" method="post">
+        <input type="number" placeholder="ID" name="id" />
+        <input type="text" placeholder="Description" name="updated" />
+        <input class="btn btn-danger" type="submit" value="Változtasd">
     </form>
 </body>
 </html>

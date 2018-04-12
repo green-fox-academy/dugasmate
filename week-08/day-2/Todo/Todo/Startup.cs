@@ -25,7 +25,6 @@ namespace Todo
         {
             services.AddMvc();
             services.AddScoped<IRepo, Repo>();
-            services.AddScoped<DbContext, TodoContext>();
             services.AddDbContext<TodoContext>(options =>
    options.UseSqlServer(@"Data Source=(localdb)\ProjectsV13;Initial Catalog=TODO;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False;"));
         }

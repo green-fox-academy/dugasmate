@@ -22,17 +22,36 @@ namespace Todo.Controllers
             
             return View(repository.Read()) ;
         }
+        [Route("search")]
+        public IActionResult List(string title)
+        {
+
+            return View(repository.Search(title));
+        }
         [Route("create")]
         public IActionResult Create(string title)
         {
             repository.Create(new TodoC() {Title=title });
             return RedirectToAction("list");
         }
-        [Route("create")]
-        public IActionResult Create(int id)
+        [Route("remove")]
+        public IActionResult Remove(int id)
         {
             repository.Delete(id);
             return RedirectToAction("list");
         }
+        [Route("update")]
+        public IActionResult Remove(int id, string updated)
+        {
+            repository.Update(id, updated);
+            return RedirectToAction("list");
+        }
+        [Route("maketrue")]
+        public IActionResult Done(int id)
+        {
+            repository.MakeTrue(id);
+            return RedirectToAction("list");
+        }
+
     }
 }

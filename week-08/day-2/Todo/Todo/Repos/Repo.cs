@@ -24,7 +24,16 @@ namespace Todo.Models
 
         public void Delete(int id)
         {
-            context.RemoveAt(id) ;
+            TodoC todo = context.Todos.FirstOrDefault(x => x.Id == id);
+            context.Remove(todo);
+            context.SaveChanges();
+        }
+
+        public void MakeTrue(int id)
+        {
+            TodoC todo = context.Todos.FirstOrDefault(x => x.Id == id);
+            todo.IsDone = true;
+            context.SaveChanges();
         }
 
         public List<TodoC> Read()
@@ -32,10 +41,23 @@ namespace Todo.Models
             return context.Todos.ToList();
         }
 
-        public void Update()
+        public List<TodoC> Search(string title)
         {
-            
+            List<TodoC> searchResult = context.Todos.Where(x => x.Title.Contains(title)).ToList();
+            context.SaveChanges();
+            return searchResult;
+
         }
 
+        public void Update(int id, string description)
+        {
+            TodoC todo = context.Todos.FirstOrDefault(x => x.Id == id);
+            if (description != null)
+            {
+                todo.Title = description;
+            }
+
+            context.SaveChanges();
+        }
     }
 }
