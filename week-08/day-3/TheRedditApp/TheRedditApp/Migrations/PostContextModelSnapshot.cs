@@ -20,6 +20,22 @@ namespace TheRedditApp.Migrations
                 .HasAnnotation("ProductVersion", "2.0.2-rtm-10011")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+            modelBuilder.Entity("TheRedditApp.Models.Comment", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<string>("Message");
+
+                    b.Property<long?>("PostId");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("PostId");
+
+                    b.ToTable("Comments");
+                });
+
             modelBuilder.Entity("TheRedditApp.Models.Post", b =>
                 {
                     b.Property<long>("Id")
@@ -27,11 +43,22 @@ namespace TheRedditApp.Migrations
 
                     b.Property<string>("Content");
 
+                    b.Property<int>("Likes");
+
+                    b.Property<string>("Link");
+
                     b.Property<string>("Title");
 
                     b.HasKey("Id");
 
                     b.ToTable("Posts");
+                });
+
+            modelBuilder.Entity("TheRedditApp.Models.Comment", b =>
+                {
+                    b.HasOne("TheRedditApp.Models.Post")
+                        .WithMany("Comments")
+                        .HasForeignKey("PostId");
                 });
 #pragma warning restore 612, 618
         }

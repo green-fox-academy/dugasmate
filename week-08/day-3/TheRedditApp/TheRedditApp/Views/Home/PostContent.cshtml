@@ -1,0 +1,88 @@
+﻿<html>
+<head>
+    <title>Post</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <style>
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 400px;
+            height: auto;
+        }
+
+        table, th, td {
+            border: 2px solid black;
+        }
+    </style>
+</head>
+<body>
+    <table class="table table-striped" align="center">
+        <tr>
+            <td><h2 align="center">@Model.Title</h2></td>
+        </tr>
+
+        @if (Model.Link != null)
+        {
+            <tr>
+                <td align="center">
+                    <a href="@Model.Link">
+                        @if (Model.Link.Contains("youtube"))
+                        {
+                            <iframe width="560" height="315" src="@Model.Link" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+                        }
+                        else if (Model.Link.Contains("jpg"))
+                        {
+
+                            <img src="@Model.Link">
+                        }
+                        else
+                        {
+                            @Model.Link
+                        }
+                    </a>
+                </td>
+            </tr>
+        }
+        <tr>
+            <td align="center">@Model.Content</td>
+        </tr>
+        <tr>
+            <td align="center">
+                Likes: @Model.Likes
+            </td>
+        </tr>
+
+
+
+        @if (Model.Comments.Count != 0)
+        {
+
+
+            <tr align="center">
+                <th>
+                    <h2>Comments</h2>
+                </th>
+            </tr>
+            @foreach (var message in Model.Comments)
+            {
+                <tr align="center">
+                    <td>
+                        @message.Message
+                    </td>
+                </tr>
+            }
+
+        }
+    </table>
+
+    <form align="center" class="text-center" action="@Model.Id/comment" method="post">
+        <input type="text" placeholder="Type your comment!" name="comment" />
+        <input class="btn btn-success" type="submit" value="Post">
+    </form>
+    <form align="center" action="/">
+        <input class="btn btn-success" type="submit" value="Back">
+    </form>
+</body>
+</html>

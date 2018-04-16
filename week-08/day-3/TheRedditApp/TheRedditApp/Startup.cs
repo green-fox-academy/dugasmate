@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using TheRedditApp.Models;
+using TheRedditApp.Repos;
 
 namespace TheRedditApp
 {
@@ -24,6 +25,7 @@ namespace TheRedditApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddScoped<IRepo, Repo>();
             services.AddDbContext<PostContext>(options =>
    options.UseSqlServer(@"Data Source=(localdb)\ProjectsV13;Initial Catalog=TheRedditPosts;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False;"));
         }

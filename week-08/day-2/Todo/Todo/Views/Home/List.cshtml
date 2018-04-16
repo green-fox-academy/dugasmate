@@ -22,7 +22,14 @@
                 <td>@item.Id</td>
                 <td>@item.Title</td>
                 <td>
-                    @item.IsDone
+                    @if (@item.IsDone)
+    {
+                <p>!</p>
+}
+else
+{
+                <p>X</p>
+}
                 </td>
                 <td>@item.IsUrgent</td>
             </tr>
