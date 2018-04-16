@@ -32,16 +32,16 @@ namespace Frontend.Controllers
         public IActionResult Greeter(string name, string title)
         {
             {
-            if (name == null)
+                if (name == null)
 
-                return new JsonResult(new { error = "Please provide a name!" });
+                    return new JsonResult(new { error = "Please provide a name!" });
             }
             if (title == null)
             {
                 return new JsonResult(new { error = "Please provide a title!" });
             }
 
-            return new JsonResult(new { welcome_message = "Oh, hi there " + name + ", my dear " + title + "!"});
+            return new JsonResult(new { welcome_message = "Oh, hi there " + name + ", my dear " + title + "!" });
         }
         [HttpGet]
         [Route("/appenda/{appendable}")]
@@ -75,7 +75,7 @@ namespace Frontend.Controllers
                     result += i;
 
                 }
-                return new JsonResult(new {result });
+                return new JsonResult(new { result });
             }
             if (what == "factor")
             {
@@ -87,7 +87,44 @@ namespace Frontend.Controllers
                 return new JsonResult(new { result });
             }
             return new JsonResult(new { error = "Please provide a number!" });
+
+        }
+        [HttpPost]
+        [Route("/arrays")]
+        public IActionResult Arrays([FromBody] ArraysClass Array)
+        {
+            int result = 0;
+            if (Array.Numbers != null)
+            {
+                int[] resultArray = new int[Array.Numbers.Length];
+                if (Array.What == "sum")
+                {
+                    for (int i = 0; i < Array.Numbers.Length; i++)
+                    {
+                        result += Array.Numbers[i];
+                    }
+                    return new JsonResult(new { result });
+                }
+                if (Array.What == "multiply")
+                {
+                    result = 1;
+                    for (int i = 0; i < Array.Numbers.Length; i++)
+                    {
+                        result *= Array.Numbers[i];
+                    }
+                    return new JsonResult(new { result });
+                }
+                if (Array.What == "doubling")
+                {
+                    for (int i = 0; i < Array.Numbers.Length; i++)
+                    {
+                        resultArray[i] = Array.Numbers[i] * 2;
+                    }
+                    return new JsonResult(new { resultArray });
+                }
+            }
+            return new JsonResult(new { error = "Please provide what to do with the numbers!" });
         }
     }
-    
+
 }
