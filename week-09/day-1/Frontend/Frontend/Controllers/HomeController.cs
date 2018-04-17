@@ -5,11 +5,17 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Frontend.Models;
+using Frontend.Repos;
 
 namespace Frontend.Controllers
 {
     public class HomeController : Controller
     {
+        IRepo repository;
+        public HomeController(IRepo repository)
+        {
+            this.repository = repository;
+        }
         [HttpGet]
         [Route("/")]
         public IActionResult Index()
@@ -24,7 +30,7 @@ namespace Frontend.Controllers
             {
                 return new JsonResult(new { error = "Please provide an input!" });
             }
-
+            repository.Save("/doubling", "input=" + input);
             return new JsonResult(new { received = input, result = input * 2 });
         }
         [HttpGet]
@@ -94,28 +100,30 @@ namespace Frontend.Controllers
         public IActionResult Arrays([FromBody] ArraysClass Array)
         {
             int result = 0;
+
+
+            if (Array.What == "sum")
+            {
+                for (int i = 0; i < Array.Numbers.Length; i++)
+                {
+                    result += Array.Numbers[i];
+                }
+                return new JsonResult(new { result });
+            }
+            if (Array.What == "multiply")
+            {
+                result = 1;
+                for (int i = 0; i < Array.Numbers.Length; i++)
+                {
+                    result *= Array.Numbers[i];
+                }
+                return new JsonResult(new { result });
+            }
             if (Array.Numbers != null)
             {
-                int[] resultArray = new int[Array.Numbers.Length];
-                if (Array.What == "sum")
-                {
-                    for (int i = 0; i < Array.Numbers.Length; i++)
-                    {
-                        result += Array.Numbers[i];
-                    }
-                    return new JsonResult(new { result });
-                }
-                if (Array.What == "multiply")
-                {
-                    result = 1;
-                    for (int i = 0; i < Array.Numbers.Length; i++)
-                    {
-                        result *= Array.Numbers[i];
-                    }
-                    return new JsonResult(new { result });
-                }
                 if (Array.What == "doubling")
                 {
+                    int[] resultArray = new int[Array.Numbers.Length];
                     for (int i = 0; i < Array.Numbers.Length; i++)
                     {
                         resultArray[i] = Array.Numbers[i] * 2;
@@ -125,6 +133,20 @@ namespace Frontend.Controllers
             }
             return new JsonResult(new { error = "Please provide what to do with the numbers!" });
         }
+        [HttpGet]
+        [Route("/log")]
+        public IActionResult Log()
+        {
+            return new JsonResult (new { entries = repository.List(), entry_count = repository.List().Count });
+        }
+        [HttpPost]
+        [Route("/sith")]
+        public IActionResult Sith([FromBody] YodaSpeak yodaSpoke)
+        {
+
+            return new JsonResult(new { sith_text = repository.TransformToYoda(yodaSpoke.Text) });
+        }
+
     }
 
 }
