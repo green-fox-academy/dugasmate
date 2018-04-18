@@ -35,22 +35,26 @@ namespace Frontend.Repos
         {
             List<string> switchedWords = new List<string>();
             string[] sentences = text.ToLower().Split(".");
-            string[] words = sentences[0].Split(" ");
-            List<string> wordsList = words.ToList();
-            for (int i = 0; i < wordsList.Count; i++)
+            for (int i = 0; i < sentences.Length; i++)
             {
-                if (i == wordsList.Count - 1)
+                string[] words = sentences[i].Split(" ");
+                List<string> wordsList = words.ToList();
+                for (int j = 0; j < wordsList.Count; j++)
                 {
-                    switchedWords.Add(words[i]);
+                    if (j == wordsList.Count - 1)
+                    {
+                        switchedWords.Add(words[j]);
+                    }
+                    if (j % 2 == 0 && j < wordsList.Count - 1)
+                    {
+                        switchedWords.Add(words[j + 1]);
+                    }
+                    if (j % 2 != 0 && j < wordsList.Count)
+                    {
+                        switchedWords.Add(words[j - 1]);
+                    }
                 }
-                if (i % 2 == 0 && i < wordsList.Count - 1)
-                {
-                    switchedWords.Add(words[i+1]);
-                }
-                if (i % 2 != 0 && i < wordsList.Count)
-                {
-                    switchedWords.Add(words[i - 1]);
-                }
+          
 
             }
 

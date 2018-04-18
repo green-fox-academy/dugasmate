@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuardiansVol2", "GuardiansVol2\GuardiansVol2.csproj", "{A54DAB54-1E6F-4439-BAD9-53B84AD88019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guardians.IntegrationTests", "Guardians.IntegrationTests\Guardians.IntegrationTests.csproj", "{90D8E8D9-2EAF-4823-AA62-1EDBC9191C52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A54DAB54-1E6F-4439-BAD9-53B84AD88019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54DAB54-1E6F-4439-BAD9-53B84AD88019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54DAB54-1E6F-4439-BAD9-53B84AD88019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54DAB54-1E6F-4439-BAD9-53B84AD88019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D8E8D9-2EAF-4823-AA62-1EDBC9191C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D8E8D9-2EAF-4823-AA62-1EDBC9191C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D8E8D9-2EAF-4823-AA62-1EDBC9191C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D8E8D9-2EAF-4823-AA62-1EDBC9191C52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54D066D4-13EC-40C9-A6E5-46D03A704E7A}
+	EndGlobalSection
+EndGlobal

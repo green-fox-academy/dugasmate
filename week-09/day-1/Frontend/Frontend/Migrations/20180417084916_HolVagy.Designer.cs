@@ -5,13 +5,14 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage;
+using Microsoft.EntityFrameworkCore.Storage.Internal;
 using System;
 
 namespace Frontend.Migrations
 {
     [DbContext(typeof(LogContext))]
-    [Migration("20180416145907_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20180417084916_HolVagy")]
+    partial class HolVagy
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -24,6 +25,12 @@ namespace Frontend.Migrations
                 {
                     b.Property<long>("Id")
                         .ValueGeneratedOnAdd();
+
+                    b.Property<DateTime>("CreatedAt");
+
+                    b.Property<string>("Data");
+
+                    b.Property<string>("EndPoint");
 
                     b.HasKey("Id");
 
