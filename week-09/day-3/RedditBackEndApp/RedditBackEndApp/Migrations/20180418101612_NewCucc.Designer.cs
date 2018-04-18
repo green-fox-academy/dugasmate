@@ -11,8 +11,8 @@ using System;
 namespace RedditBackEndApp.Migrations
 {
     [DbContext(typeof(PostContext))]
-    [Migration("20180418085751_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20180418101612_NewCucc")]
+    partial class NewCucc
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

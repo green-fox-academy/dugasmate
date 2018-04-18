@@ -8,6 +8,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using RedditBackEndApp.Entities;
+using RedditBackEndApp.Models;
+using RedditBackEndApp.Repository;
 
 namespace RedditBackEndApp
 {
@@ -24,6 +26,7 @@ namespace RedditBackEndApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddScoped<IRepo<Post>, PostRepo>();
             services.AddDbContext<PostContext>(options =>
   options.UseSqlServer(@"Data Source=(localdb)\ProjectsV13;Initial Catalog=BackEndPosts;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False;"));
         }

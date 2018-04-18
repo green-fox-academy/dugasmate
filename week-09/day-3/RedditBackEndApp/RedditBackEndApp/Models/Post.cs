@@ -13,5 +13,9 @@ namespace RedditBackEndApp.Models
         public string Timestamp { get; set; }
         public int Score { get; set; }
 
+        public Post()
+        {
+            Timestamp = DateTime.Now.ToString();
+        }
     }
 }
