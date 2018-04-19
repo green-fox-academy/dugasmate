@@ -1,0 +1,52 @@
+﻿@model TrialExam.ViewModel.PlanetsAndSpaceship
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Space Transporter</title>
+</head>
+<body>
+    <h1>Space Transporter</h1>
+    <table>
+        <tr>
+            <th>Planet</th>
+            <th>Population</th>
+            <th>Spaceship location</th>
+            <th>People on spaceship</th>
+        </tr>
+
+        @foreach (var planet in Model.Planets)
+        {
+        <tr>
+
+            <td> @planet.Name</td>
+            <td> @planet.Population</td>
+
+
+
+            @if (@Model.uhajo.ToList()[0].Planet == planet.Name)
+    {
+            <td> <a href="/toplanet/@planet.Id"> To planet</a>  <a href="/toship/@planet.Id"> To ship</a> </td>
+        <td> @Model.uhajo.ToList()[0].Utilization</td>
+}
+else
+{
+        <td>
+            <form action="/movehere/@planet.Id" method="post">
+                <input type="submit" value="Move here!">
+            </form>
+        </td>
+        <td>
+            -
+        </td>
+}
+        </tr>
+        }
+
+
+
+
+
+
+
+    </table>
+</body>
+</html>
